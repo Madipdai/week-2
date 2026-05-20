@@ -1,0 +1,251 @@
+TRANSACTION_ID,DATE,CITY,STORE,PRODUCT,UNITS,PRICE_PER_UNIT,CUSTOMER_GENDER,CUSTOMER_AGE,PAYMENT
+POS-0001,2022-01-01 00:00:00.000000000,Manchester,5 Deansgate,TV,QTY_ERR,-103.04,Male,53,Debit Card
+POS-0002,2022-01-05 09:32:31.807228915,Edinburgh,5 Deansgate,TV,6,1128.82,Male,23,Debit Card
+POS-0003,2022-01-09 19:05:03.614457831,Manchester,22 Kings Road,Smartphone,4,1633.8,Female,40,Debit Card
+POS-0004,2022-01-14 04:37:35.421686747,London,22 Kings Road,TV,5,616.61,Female,28,Credit Card
+POS-0005,2022-01-18 14:10:07.228915662,Manchester,22 Kings Road,Camera,4,1773.73,Female,60,PayPal
+POS-0006,2022-01-22 23:42:39.036144578,London,10 Broad St,Headphones,6,779.26,Female,30,Cash
+POS-0007,2022-01-27 09:15:10.843373494,Birmingham,8 Canary Wharf,TV,4,632.55,Female,28,Credit Card
+POS-0008,2022-01-31 18:47:42.650602410,Bristol,14 Oxford St,Tablet,6,1682.7,Male,21,Cash
+POS-0009,2022-02-05 04:20:14.457831325,Bristol,5 Deansgate,Laptop,6,1383.86,Male,22,Cash
+POS-0010,2022-02-09 13:52:46.265060241,Manchester,5 Deansgate,TV,6,1498.97,Female,56,PayPal
+POS-0011,2022-02-13 23:25:18.072289157,Edinburgh,5 Deansgate,Camera,3,1684.08,Male,66,Cash
+POS-0012,2022-02-18 08:57:49.879518072,Manchester,8 Canary Wharf,TV,7,892.17,Male,62,Debit Card
+POS-0013,2022-02-22 18:30:21.686746988,Manchester,14 Oxford St,Laptop,6,1042.36,Male,55,Debit Card
+POS-0014,2022-02-27 04:02:53.493975904,London,8 Canary Wharf,Camera,1,1091.36,Female,39,Cash
+POS-0015,2022-03-03 13:35:25.301204820,Edinburgh,22 Kings Road,Headphones,1,917.23,Female,22,Debit Card
+POS-0016,2022-03-07 23:07:57.108433735,Edinburgh,10 Broad St,Tablet,,426.46,Male,36,Cash
+POS-0017,2022-03-12 08:40:28.915662651,Bristol,10 Broad St,Tablet,3,308.18,Male,21,Cash
+POS-0018,2022-03-16 18:13:00.722891567,Birmingham,5 Deansgate,TV,8,630.9,Female,22,PayPal
+POS-0019,2022-03-21 03:45:32.530120482,London,5 Deansgate,Camera,7,1981.6,Male,53,PayPal
+POS-0020,2022-03-25 13:18:04.337349398,Bristol,10 Broad St,TV,2,172.99,Female,66,Cash
+POS-0021,2022-03-29 22:50:36.144578314,London,10 Broad St,TV,9,1339.16,Female,19,Debit Card
+POS-0022,2022-04-03 08:23:07.951807229,London,5 Deansgate,Smartphone,6,1124.47,Male,48,Debit Card
+POS-0023,2022-04-07 17:55:39.759036145,Bristol,10 Broad St,TV,1,289.99,Male,46,Debit Card
+POS-0024,2022-04-12 03:28:11.566265061,Manchester,8 Canary Wharf,Tablet,6,1226.69,Male,22,Cash
+POS-0025,2022-04-16 13:00:43.373493976,Edinburgh,14 Oxford St,Tablet,7,449.99,Female,25,Credit Card
+POS-0026,2022-04-20 22:33:15.180722892,Birmingham,5 Deansgate,TV,2,-132.41,Male,56,Debit Card
+POS-0027,2022-04-25 08:05:46.987951808,Edinburgh,10 Broad St,Laptop,8,1495.8,Female,64,Cash
+POS-0028,2022-04-29 17:38:18.795180724,Bristol,8 Canary Wharf,Headphones,7,1882.3,Female,52,Credit Card
+POS-0029,2022-05-04 03:10:50.602409640,Bristol,10 Broad St,Tablet,9,1238.31,Male,52,Cash
+POS-0030,2022-05-08 12:43:22.409638554,Manchester,14 Oxford St,Headphones,8,1767.11,Male,48,Debit Card
+POS-0031,2022-05-12 22:15:54.216867470,Manchester,22 Kings Road,TV,QTY_ERR,336.15,Male,64,Debit Card
+POS-0032,2022-05-17 07:48:26.024096386,Manchester,14 Oxford St,TV,9,1739.56,Female,51,Debit Card
+POS-0033,2022-05-21 17:20:57.831325302,London,10 Broad St,Camera,9,364.8,Male,68,Debit Card
+POS-0034,2022-05-26 02:53:29.638554218,Manchester,14 Oxford St,TV,3,583.35,Male,56,PayPal
+POS-0035,2022-05-30 12:26:01.445783134,Edinburgh,10 Broad St,Camera,6,1625.57,Female,40,Cash
+POS-0036,2022-06-03 21:58:33.253012050,Edinburgh,5 Deansgate,Laptop,7,1251.35,Male,67,Credit Card
+POS-0037,2022-06-08 07:31:05.060240964,Birmingham,5 Deansgate,TV,8,1101.39,Female,67,PayPal
+POS-0038,2022-06-12 17:03:36.867469880,Birmingham,5 Deansgate,Smartphone,8,1616.45,Male,33,Debit Card
+POS-0039,2022-06-17 02:36:08.674698796,Edinburgh,5 Deansgate,Tablet,2,582.11,Female,66,Cash
+POS-0040,2022-06-21 12:08:40.481927712,Bristol,22 Kings Road,TV,5,1857.12,Female,59,Credit Card
+POS-0041,2022-06-25 21:41:12.289156628,London,10 Broad St,TV,2,582.45,Male,18,PayPal
+POS-0042,2022-06-30 07:13:44.096385544,Bristol,10 Broad St,Headphones,8,517.6,Female,62,Debit Card
+POS-0043,2022-07-04 16:46:15.903614458,Edinburgh,14 Oxford St,Headphones,5,785.92,Female,28,Credit Card
+POS-0044,2022-07-09 02:18:47.710843374,Manchester,8 Canary Wharf,Tablet,4,1502.58,Male,35,Cash
+POS-0045,2022-07-13 11:51:19.518072290,Bristol,8 Canary Wharf,TV,9,854.12,Female,32,Cash
+POS-0046,2022-07-17 21:23:51.325301206,Edinburgh,5 Deansgate,Smartphone,,1483.33,Female,38,PayPal
+POS-0047,2022-07-22 06:56:23.132530122,Birmingham,14 Oxford St,Tablet,7,1782.55,Female,47,PayPal
+POS-0048,2022-07-26 16:28:54.939759038,Edinburgh,22 Kings Road,TV,9,1988.87,Female,59,Credit Card
+POS-0049,2022-07-31 02:01:26.746987952,Manchester,5 Deansgate,Camera,1,1730.5,Male,59,PayPal
+POS-0050,2022-08-04 11:33:58.554216868,Manchester,10 Broad St,Tablet,9,1714.12,Male,52,PayPal
+POS-0051,2022-08-08 21:06:30.361445784,Edinburgh,5 Deansgate,Camera,4,-90.13,Male,31,PayPal
+POS-0052,2022-08-13 06:39:02.168674700,Manchester,10 Broad St,Tablet,4,591.87,Female,25,Credit Card
+POS-0053,2022-08-17 16:11:33.975903616,Bristol,10 Broad St,Laptop,3,1745.4,Male,47,Credit Card
+POS-0054,2022-08-22 01:44:05.783132532,Bristol,8 Canary Wharf,Camera,2,1963.13,Female,59,PayPal
+POS-0055,2022-08-26 11:16:37.590361448,Edinburgh,5 Deansgate,Smartphone,4,598.42,Female,62,Credit Card
+POS-0056,2022-08-30 20:49:09.397590364,London,22 Kings Road,Smartphone,5,1865.56,Female,28,Cash
+POS-0057,2022-09-04 06:21:41.204819280,London,10 Broad St,Camera,1,1292.09,Female,33,Credit Card
+POS-0058,2022-09-08 15:54:13.012048196,Manchester,22 Kings Road,Smartphone,8,1090.06,Female,57,Cash
+POS-0059,2022-09-13 01:26:44.819277108,Birmingham,14 Oxford St,Smartphone,8,994.79,Female,64,Credit Card
+POS-0060,2022-09-17 10:59:16.626506024,Manchester,8 Canary Wharf,Laptop,9,1976.52,Female,49,Credit Card
+POS-0061,2022-09-21 20:31:48.433734940,London,14 Oxford St,Tablet,QTY_ERR,651.85,Male,18,PayPal
+POS-0062,2022-09-26 06:04:20.240963856,Edinburgh,10 Broad St,TV,5,199.21,Female,30,Credit Card
+POS-0063,2022-09-30 15:36:52.048192772,London,10 Broad St,Laptop,7,1229.39,Male,51,Credit Card
+POS-0064,2022-10-05 01:09:23.855421688,Edinburgh,10 Broad St,Camera,9,1312.8,Female,41,PayPal
+POS-0065,2022-10-09 10:41:55.662650604,Edinburgh,5 Deansgate,Smartphone,6,1098.08,Female,36,Debit Card
+POS-0066,2022-10-13 20:14:27.469879520,Birmingham,8 Canary Wharf,Laptop,3,1501.65,Male,24,PayPal
+POS-0067,2022-10-18 05:46:59.277108436,London,14 Oxford St,TV,1,139.23,Female,22,PayPal
+POS-0068,2022-10-22 15:19:31.084337352,London,5 Deansgate,Smartphone,1,1870.57,Female,37,Credit Card
+POS-0069,2022-10-27 00:52:02.891566268,Birmingham,8 Canary Wharf,TV,3,1137.76,Male,44,Cash
+POS-0070,2022-10-31 10:24:34.698795184,Edinburgh,10 Broad St,Smartphone,4,145.71,Male,34,Cash
+POS-0071,2022-11-04 19:57:06.506024100,Birmingham,8 Canary Wharf,TV,4,1986.21,Male,63,PayPal
+POS-0072,2022-11-09 05:29:38.313253012,Edinburgh,14 Oxford St,TV,5,112.9,Female,24,PayPal
+POS-0073,2022-11-13 15:02:10.120481928,Birmingham,10 Broad St,Tablet,1,1590.51,Female,61,Cash
+POS-0074,2022-11-18 00:34:41.927710844,Bristol,14 Oxford St,Laptop,5,936.52,Male,66,Credit Card
+POS-0075,2022-11-22 10:07:13.734939760,London,22 Kings Road,TV,1,693.59,Female,58,Credit Card
+POS-0076,2022-11-26 19:39:45.542168676,Edinburgh,14 Oxford St,Tablet,,-118.5,Male,66,PayPal
+POS-0077,2022-12-01 05:12:17.349397592,Birmingham,22 Kings Road,Headphones,9,870.67,Male,32,Credit Card
+POS-0078,2022-12-05 14:44:49.156626508,Edinburgh,5 Deansgate,TV,6,357.64,Male,28,Credit Card
+POS-0079,2022-12-10 00:17:20.963855424,Manchester,8 Canary Wharf,Smartphone,9,876.14,Female,40,Credit Card
+POS-0080,2022-12-14 09:49:52.771084340,Bristol,8 Canary Wharf,TV,6,1410.77,Female,55,PayPal
+POS-0081,2022-12-18 19:22:24.578313256,Bristol,10 Broad St,TV,3,1875.34,Male,57,Credit Card
+POS-0082,2022-12-23 04:54:56.385542172,Manchester,14 Oxford St,Laptop,3,1392.72,Female,29,Cash
+POS-0083,2022-12-27 14:27:28.192771088,Edinburgh,22 Kings Road,Smartphone,5,1643.27,Female,43,Debit Card
+POS-0084,2023-01-01 00:00:00.000000004,Edinburgh,22 Kings Road,TV,8,1568.22,Female,55,Credit Card
+POS-0085,2023-01-05 09:32:31.807228916,Bristol,5 Deansgate,Headphones,7,58.93,Male,23,Credit Card
+POS-0086,2023-01-09 19:05:03.614457832,Bristol,5 Deansgate,TV,3,1955.03,Male,43,Credit Card
+POS-0087,2023-01-14 04:37:35.421686748,Manchester,14 Oxford St,Smartphone,7,1645.07,Female,45,Debit Card
+POS-0088,2023-01-18 14:10:07.228915664,Edinburgh,22 Kings Road,Smartphone,4,677.52,Male,33,Debit Card
+POS-0089,2023-01-22 23:42:39.036144580,Edinburgh,10 Broad St,Camera,9,1613.27,Male,52,Debit Card
+POS-0090,2023-01-27 09:15:10.843373496,Birmingham,22 Kings Road,TV,3,623.81,Female,28,Debit Card
+POS-0091,2023-01-31 18:47:42.650602412,Edinburgh,22 Kings Road,Smartphone,QTY_ERR,313.65,Female,35,Credit Card
+POS-0092,2023-02-05 04:20:14.457831328,London,10 Broad St,Camera,1,473.76,Female,51,Credit Card
+POS-0093,2023-02-09 13:52:46.265060244,Edinburgh,14 Oxford St,TV,7,204.72,Female,26,Debit Card
+POS-0094,2023-02-13 23:25:18.072289160,Bristol,5 Deansgate,Headphones,5,959.28,Female,33,PayPal
+POS-0095,2023-02-18 08:57:49.879518076,Edinburgh,22 Kings Road,Smartphone,1,1341.76,Female,28,Debit Card
+POS-0096,2023-02-22 18:30:21.686746992,Manchester,22 Kings Road,Headphones,6,1091.8,Female,56,Debit Card
+POS-0097,2023-02-27 04:02:53.493975904,London,22 Kings Road,Laptop,4,1070.79,Male,51,Debit Card
+POS-0098,2023-03-03 13:35:25.301204824,London,14 Oxford St,TV,5,750.59,Male,69,Cash
+POS-0099,2023-03-07 23:07:57.108433736,London,14 Oxford St,Headphones,3,1065.64,Female,22,Cash
+POS-0100,2023-03-12 08:40:28.915662656,Birmingham,8 Canary Wharf,Smartphone,8,794.35,Male,37,Debit Card
+POS-0101,2023-03-16 18:13:00.722891568,Edinburgh,8 Canary Wharf,Tablet,9,-96.27,Female,52,Credit Card
+POS-0102,2023-03-21 03:45:32.530120488,Bristol,22 Kings Road,Camera,8,750.47,Male,46,Credit Card
+POS-0103,2023-03-25 13:18:04.337349400,London,14 Oxford St,Camera,4,1903.4,Female,60,Debit Card
+POS-0104,2023-03-29 22:50:36.144578312,London,5 Deansgate,TV,6,1686.69,Male,57,Debit Card
+POS-0105,2023-04-03 08:23:07.951807232,Edinburgh,8 Canary Wharf,Camera,4,419.94,Female,44,Credit Card
+POS-0106,2023-04-07 17:55:39.759036144,London,22 Kings Road,Tablet,,1099.51,Female,60,PayPal
+POS-0107,2023-04-12 03:28:11.566265064,Manchester,14 Oxford St,Smartphone,6,1884.7,Male,58,Cash
+POS-0108,2023-04-16 13:00:43.373493976,Birmingham,5 Deansgate,Camera,6,1189.98,Female,32,Debit Card
+POS-0109,2023-04-20 22:33:15.180722896,London,10 Broad St,TV,9,561.29,Female,23,PayPal
+POS-0110,2023-04-25 08:05:46.987951808,London,10 Broad St,Tablet,9,1301.48,Male,62,Cash
+POS-0111,2023-04-29 17:38:18.795180728,Bristol,5 Deansgate,Headphones,8,581.53,Female,49,Cash
+POS-0112,2023-05-04 03:10:50.602409640,Edinburgh,22 Kings Road,Tablet,6,1670.96,Female,32,Credit Card
+POS-0113,2023-05-08 12:43:22.409638560,Manchester,14 Oxford St,Tablet,1,1628.16,Female,39,Debit Card
+POS-0114,2023-05-12 22:15:54.216867472,London,5 Deansgate,Headphones,2,1314.31,Female,52,Credit Card
+POS-0115,2023-05-17 07:48:26.024096392,Manchester,10 Broad St,Smartphone,9,1575.51,Female,66,Debit Card
+POS-0116,2023-05-21 17:20:57.831325304,Birmingham,8 Canary Wharf,Tablet,5,366.19,Female,23,Credit Card
+POS-0117,2023-05-26 02:53:29.638554216,Birmingham,22 Kings Road,Headphones,8,509.31,Male,45,Cash
+POS-0118,2023-05-30 12:26:01.445783136,Birmingham,22 Kings Road,Smartphone,8,691.38,Male,24,Credit Card
+POS-0119,2023-06-03 21:58:33.253012048,Birmingham,8 Canary Wharf,Smartphone,1,236.57,Female,29,Credit Card
+POS-0120,2023-06-08 07:31:05.060240968,Bristol,10 Broad St,Headphones,4,1645.89,Male,28,Credit Card
+POS-0121,2023-06-12 17:03:36.867469880,Manchester,5 Deansgate,Camera,QTY_ERR,1262.01,Female,61,Cash
+POS-0122,2023-06-17 02:36:08.674698800,Bristol,8 Canary Wharf,TV,2,52.6,Male,41,PayPal
+POS-0123,2023-06-21 12:08:40.481927712,Birmingham,22 Kings Road,TV,9,696.67,Male,61,Cash
+POS-0124,2023-06-25 21:41:12.289156632,London,5 Deansgate,Headphones,8,1300.83,Male,26,Credit Card
+POS-0125,2023-06-30 07:13:44.096385544,Birmingham,5 Deansgate,Smartphone,5,1377.2,Male,41,PayPal
+POS-0126,2023-07-04 16:46:15.903614464,Edinburgh,14 Oxford St,Headphones,7,-144.84,Male,33,PayPal
+POS-0127,2023-07-09 02:18:47.710843376,Birmingham,14 Oxford St,Headphones,9,1841.42,Male,33,Credit Card
+POS-0128,2023-07-13 11:51:19.518072296,Birmingham,10 Broad St,TV,6,283.93,Female,35,Debit Card
+POS-0129,2023-07-17 21:23:51.325301208,Edinburgh,22 Kings Road,Smartphone,7,797.0,Female,18,Credit Card
+POS-0130,2023-07-22 06:56:23.132530120,Birmingham,10 Broad St,Smartphone,8,448.75,Female,56,Cash
+POS-0131,2023-07-26 16:28:54.939759040,Birmingham,5 Deansgate,Laptop,9,1663.08,Male,45,Credit Card
+POS-0132,2023-07-31 02:01:26.746987952,Birmingham,8 Canary Wharf,Headphones,9,123.63,Male,56,Credit Card
+POS-0133,2023-08-04 11:33:58.554216872,Manchester,5 Deansgate,Camera,8,382.77,Female,34,PayPal
+POS-0134,2023-08-08 21:06:30.361445784,Edinburgh,8 Canary Wharf,Camera,9,998.08,Male,46,Cash
+POS-0135,2023-08-13 06:39:02.168674704,Edinburgh,22 Kings Road,Headphones,8,127.84,Male,61,Cash
+POS-0136,2023-08-17 16:11:33.975903616,Edinburgh,10 Broad St,Tablet,,1030.26,Female,29,Cash
+POS-0137,2023-08-22 01:44:05.783132536,Birmingham,5 Deansgate,Headphones,8,1972.46,Male,45,Debit Card
+POS-0138,2023-08-26 11:16:37.590361448,Bristol,5 Deansgate,Laptop,6,1858.09,Female,18,Credit Card
+POS-0139,2023-08-30 20:49:09.397590368,Bristol,22 Kings Road,TV,8,421.85,Female,63,Credit Card
+POS-0140,2023-09-04 06:21:41.204819280,Bristol,22 Kings Road,Headphones,9,894.91,Female,50,Debit Card
+POS-0141,2023-09-08 15:54:13.012048200,Manchester,14 Oxford St,Camera,7,867.93,Male,68,PayPal
+POS-0142,2023-09-13 01:26:44.819277112,Manchester,22 Kings Road,Tablet,7,333.01,Female,48,Cash
+POS-0143,2023-09-17 10:59:16.626506024,Birmingham,10 Broad St,Tablet,8,1735.2,Female,50,Credit Card
+POS-0144,2023-09-21 20:31:48.433734944,Edinburgh,5 Deansgate,TV,8,1389.45,Female,36,Credit Card
+POS-0145,2023-09-26 06:04:20.240963856,Manchester,8 Canary Wharf,Tablet,4,1886.94,Male,43,Debit Card
+POS-0146,2023-09-30 15:36:52.048192776,Manchester,14 Oxford St,Tablet,5,1639.94,Female,47,Debit Card
+POS-0147,2023-10-05 01:09:23.855421688,London,5 Deansgate,TV,9,957.45,Female,51,Cash
+POS-0148,2023-10-09 10:41:55.662650608,Birmingham,10 Broad St,Laptop,2,659.92,Male,44,Cash
+POS-0149,2023-10-13 20:14:27.469879520,Bristol,10 Broad St,TV,3,1066.59,Male,56,Debit Card
+POS-0150,2023-10-18 05:46:59.277108440,London,5 Deansgate,Headphones,8,1353.52,Female,44,PayPal
+POS-0151,2023-10-22 15:19:31.084337352,Birmingham,10 Broad St,Headphones,QTY_ERR,-83.24,Female,38,Debit Card
+POS-0152,2023-10-27 00:52:02.891566272,London,5 Deansgate,Tablet,5,572.25,Female,36,Debit Card
+POS-0153,2023-10-31 10:24:34.698795184,Edinburgh,10 Broad St,Camera,3,1774.44,Female,26,PayPal
+POS-0154,2023-11-04 19:57:06.506024104,Bristol,10 Broad St,Headphones,4,1257.01,Female,41,PayPal
+POS-0155,2023-11-09 05:29:38.313253016,Birmingham,5 Deansgate,Smartphone,7,1271.06,Male,34,Cash
+POS-0156,2023-11-13 15:02:10.120481928,London,10 Broad St,Smartphone,4,1181.73,Male,40,PayPal
+POS-0157,2023-11-18 00:34:41.927710848,Manchester,14 Oxford St,Headphones,9,1725.0,Female,27,PayPal
+POS-0158,2023-11-22 10:07:13.734939760,London,5 Deansgate,Smartphone,9,1417.62,Male,39,Debit Card
+POS-0159,2023-11-26 19:39:45.542168680,Edinburgh,22 Kings Road,Camera,7,1145.67,Female,68,PayPal
+POS-0160,2023-12-01 05:12:17.349397592,Edinburgh,14 Oxford St,Camera,6,1126.12,Male,42,Cash
+POS-0161,2023-12-05 14:44:49.156626512,Manchester,22 Kings Road,TV,5,1982.81,Female,34,PayPal
+POS-0162,2023-12-10 00:17:20.963855424,London,10 Broad St,Tablet,1,967.87,Female,63,Debit Card
+POS-0163,2023-12-14 09:49:52.771084344,Edinburgh,8 Canary Wharf,Camera,6,1094.46,Male,47,Credit Card
+POS-0164,2023-12-18 19:22:24.578313256,Manchester,5 Deansgate,Smartphone,1,1439.97,Male,53,PayPal
+POS-0165,2023-12-23 04:54:56.385542176,Birmingham,14 Oxford St,Smartphone,8,1996.8,Female,47,Cash
+POS-0166,2023-12-27 14:27:28.192771088,Birmingham,8 Canary Wharf,Tablet,,1116.07,Female,26,Cash
+POS-0167,2024-01-01 00:00:00.000000008,London,14 Oxford St,Camera,7,1507.35,Male,33,Cash
+POS-0168,2024-01-05 09:32:31.807228920,London,5 Deansgate,Tablet,5,392.26,Female,59,Cash
+POS-0169,2024-01-09 19:05:03.614457832,London,14 Oxford St,Laptop,5,1709.88,Female,66,Credit Card
+POS-0170,2024-01-14 04:37:35.421686752,Bristol,10 Broad St,Tablet,1,769.66,Female,19,Credit Card
+POS-0171,2024-01-18 14:10:07.228915664,London,10 Broad St,Laptop,4,1335.69,Male,22,Debit Card
+POS-0172,2024-01-22 23:42:39.036144584,Manchester,14 Oxford St,Tablet,4,954.31,Female,23,PayPal
+POS-0173,2024-01-27 09:15:10.843373496,Manchester,10 Broad St,Camera,4,1501.64,Female,18,Cash
+POS-0174,2024-01-31 18:47:42.650602416,London,22 Kings Road,Camera,9,175.08,Male,64,PayPal
+POS-0175,2024-02-05 04:20:14.457831328,Birmingham,14 Oxford St,TV,3,463.95,Male,62,Cash
+POS-0176,2024-02-09 13:52:46.265060248,London,5 Deansgate,Camera,3,-116.85,Male,55,PayPal
+POS-0177,2024-02-13 23:25:18.072289160,Birmingham,8 Canary Wharf,Tablet,7,1581.26,Male,47,Debit Card
+POS-0178,2024-02-18 08:57:49.879518080,Manchester,8 Canary Wharf,TV,1,1350.69,Female,38,PayPal
+POS-0179,2024-02-22 18:30:21.686746992,Manchester,5 Deansgate,Camera,1,1013.27,Male,56,Credit Card
+POS-0180,2024-02-27 04:02:53.493975912,Bristol,5 Deansgate,Laptop,6,855.16,Female,64,Cash
+POS-0181,2024-03-02 13:35:25.301204824,London,22 Kings Road,Headphones,QTY_ERR,337.07,Female,67,Cash
+POS-0182,2024-03-06 23:07:57.108433736,London,10 Broad St,Camera,2,1695.05,Male,26,PayPal
+POS-0183,2024-03-11 08:40:28.915662656,Birmingham,14 Oxford St,Headphones,1,286.09,Male,23,Debit Card
+POS-0184,2024-03-15 18:13:00.722891568,Birmingham,8 Canary Wharf,TV,4,1891.15,Male,51,PayPal
+POS-0185,2024-03-20 03:45:32.530120488,Edinburgh,22 Kings Road,Smartphone,7,657.93,Female,47,PayPal
+POS-0186,2024-03-24 13:18:04.337349400,London,8 Canary Wharf,Camera,1,1765.1,Male,63,Cash
+POS-0187,2024-03-28 22:50:36.144578320,Birmingham,22 Kings Road,Smartphone,6,1051.14,Male,59,Credit Card
+POS-0188,2024-04-02 08:23:07.951807232,Birmingham,14 Oxford St,TV,4,55.97,Male,24,Credit Card
+POS-0189,2024-04-06 17:55:39.759036152,Manchester,10 Broad St,Camera,2,1267.53,Male,46,Debit Card
+POS-0190,2024-04-11 03:28:11.566265064,Bristol,8 Canary Wharf,Camera,8,58.5,Male,28,Credit Card
+POS-0191,2024-04-15 13:00:43.373493984,Bristol,5 Deansgate,Smartphone,1,442.63,Male,43,PayPal
+POS-0192,2024-04-19 22:33:15.180722896,Edinburgh,5 Deansgate,Headphones,4,1418.79,Female,46,PayPal
+POS-0193,2024-04-24 08:05:46.987951808,Birmingham,22 Kings Road,Camera,4,50.03,Female,59,Cash
+POS-0194,2024-04-28 17:38:18.795180720,Manchester,5 Deansgate,Headphones,5,1748.91,Female,65,Credit Card
+POS-0195,2024-05-03 03:10:50.602409648,Manchester,5 Deansgate,Camera,6,472.16,Male,56,PayPal
+POS-0196,2024-05-07 12:43:22.409638560,Bristol,5 Deansgate,Headphones,,1471.67,Female,18,PayPal
+POS-0197,2024-05-11 22:15:54.216867472,Birmingham,22 Kings Road,Laptop,6,753.73,Female,47,Debit Card
+POS-0198,2024-05-16 07:48:26.024096384,Bristol,5 Deansgate,Headphones,8,1775.74,Female,51,Cash
+POS-0199,2024-05-20 17:20:57.831325312,London,8 Canary Wharf,Camera,2,1101.43,Male,43,Cash
+POS-0200,2024-05-25 02:53:29.638554224,London,14 Oxford St,Laptop,4,617.06,Male,53,Debit Card
+POS-0201,2024-05-29 12:26:01.445783136,Bristol,10 Broad St,Laptop,6,-175.34,Male,29,PayPal
+POS-0202,2024-06-02 21:58:33.253012048,Edinburgh,10 Broad St,Camera,4,669.33,Male,39,Cash
+POS-0203,2024-06-07 07:31:05.060240976,Birmingham,22 Kings Road,Laptop,7,308.52,Female,30,Credit Card
+POS-0204,2024-06-11 17:03:36.867469888,Edinburgh,22 Kings Road,Camera,2,1728.78,Female,35,PayPal
+POS-0205,2024-06-16 02:36:08.674698800,Manchester,22 Kings Road,Camera,5,1599.48,Male,54,Cash
+POS-0206,2024-06-20 12:08:40.481927712,Edinburgh,10 Broad St,Headphones,3,1358.21,Male,52,PayPal
+POS-0207,2024-06-24 21:41:12.289156624,Manchester,22 Kings Road,Tablet,3,1633.94,Male,44,Debit Card
+POS-0208,2024-06-29 07:13:44.096385552,London,10 Broad St,Camera,2,1374.4,Male,29,PayPal
+POS-0209,2024-07-03 16:46:15.903614464,London,10 Broad St,Headphones,6,1803.67,Male,32,Credit Card
+POS-0210,2024-07-08 02:18:47.710843376,Bristol,14 Oxford St,Camera,8,314.15,Female,33,Cash
+POS-0211,2024-07-12 11:51:19.518072288,Birmingham,10 Broad St,Headphones,QTY_ERR,1422.61,Male,61,PayPal
+POS-0212,2024-07-16 21:23:51.325301216,Birmingham,8 Canary Wharf,Smartphone,9,1397.67,Female,20,Cash
+POS-0213,2024-07-21 06:56:23.132530128,Manchester,5 Deansgate,Tablet,2,1378.11,Male,29,Cash
+POS-0214,2024-07-25 16:28:54.939759040,London,5 Deansgate,Smartphone,3,511.59,Female,69,Cash
+POS-0215,2024-07-30 02:01:26.746987952,London,10 Broad St,Headphones,5,925.88,Male,64,PayPal
+POS-0216,2024-08-03 11:33:58.554216880,Edinburgh,8 Canary Wharf,TV,8,1390.2,Male,39,Cash
+POS-0217,2024-08-07 21:06:30.361445792,Bristol,22 Kings Road,Smartphone,2,1456.95,Female,23,PayPal
+POS-0218,2024-08-12 06:39:02.168674704,Manchester,22 Kings Road,Smartphone,7,1192.52,Male,36,Cash
+POS-0219,2024-08-16 16:11:33.975903616,Edinburgh,5 Deansgate,TV,2,366.55,Female,20,Debit Card
+POS-0220,2024-08-21 01:44:05.783132528,Manchester,10 Broad St,Laptop,8,1969.16,Male,65,Cash
+POS-0221,2024-08-25 11:16:37.590361456,Bristol,14 Oxford St,TV,1,541.95,Male,40,Cash
+POS-0222,2024-08-29 20:49:09.397590368,Birmingham,14 Oxford St,Camera,2,1591.38,Male,53,PayPal
+POS-0223,2024-09-03 06:21:41.204819280,Manchester,8 Canary Wharf,Tablet,2,1609.88,Male,50,Cash
+POS-0224,2024-09-07 15:54:13.012048192,Birmingham,10 Broad St,Smartphone,9,951.54,Female,54,Cash
+POS-0225,2024-09-12 01:26:44.819277120,Manchester,8 Canary Wharf,Tablet,4,1504.44,Female,23,Credit Card
+POS-0226,2024-09-16 10:59:16.626506032,Bristol,5 Deansgate,Laptop,,-61.35,Male,23,PayPal
+POS-0227,2024-09-20 20:31:48.433734944,London,14 Oxford St,Laptop,1,1353.42,Male,45,Debit Card
+POS-0228,2024-09-25 06:04:20.240963856,London,14 Oxford St,TV,6,1615.96,Male,60,PayPal
+POS-0229,2024-09-29 15:36:52.048192784,Birmingham,8 Canary Wharf,TV,7,1324.46,Female,60,Debit Card
+POS-0230,2024-10-04 01:09:23.855421696,Bristol,5 Deansgate,Camera,8,1811.26,Male,64,Credit Card
+POS-0231,2024-10-08 10:41:55.662650608,Birmingham,10 Broad St,Camera,2,436.37,Female,19,PayPal
+POS-0232,2024-10-12 20:14:27.469879520,Bristol,14 Oxford St,Camera,6,1898.42,Female,46,Debit Card
+POS-0233,2024-10-17 05:46:59.277108432,Manchester,10 Broad St,Camera,4,1422.28,Male,48,Credit Card
+POS-0234,2024-10-21 15:19:31.084337360,London,14 Oxford St,Smartphone,9,1865.7,Female,30,Cash
+POS-0235,2024-10-26 00:52:02.891566272,Edinburgh,14 Oxford St,TV,1,455.12,Female,37,Cash
+POS-0236,2024-10-30 10:24:34.698795184,Manchester,5 Deansgate,Camera,9,1090.69,Female,43,Debit Card
+POS-0237,2024-11-03 19:57:06.506024096,Bristol,10 Broad St,Tablet,4,167.75,Female,59,PayPal
+POS-0238,2024-11-08 05:29:38.313253024,London,10 Broad St,TV,7,485.11,Male,38,Credit Card
+POS-0239,2024-11-12 15:02:10.120481936,Edinburgh,22 Kings Road,Laptop,8,1824.24,Female,64,Cash
+POS-0240,2024-11-17 00:34:41.927710848,Birmingham,8 Canary Wharf,Camera,2,1167.5,Female,53,Debit Card
+POS-0241,2024-11-21 10:07:13.734939760,Edinburgh,14 Oxford St,Smartphone,QTY_ERR,95.88,Female,62,PayPal
+POS-0242,2024-11-25 19:39:45.542168688,London,22 Kings Road,Headphones,1,964.75,Female,36,PayPal
+POS-0243,2024-11-30 05:12:17.349397600,Bristol,10 Broad St,TV,1,494.94,Male,68,Credit Card
+POS-0244,2024-12-04 14:44:49.156626512,Bristol,8 Canary Wharf,Camera,8,1282.77,Female,58,Cash
+POS-0245,2024-12-09 00:17:20.963855424,Edinburgh,5 Deansgate,Camera,7,1050.96,Male,58,Credit Card
+POS-0246,2024-12-13 09:49:52.771084336,Manchester,10 Broad St,TV,7,733.57,Male,68,Cash
+POS-0247,2024-12-17 19:22:24.578313264,Bristol,5 Deansgate,Tablet,7,564.35,Female,29,Credit Card
+POS-0248,2024-12-22 04:54:56.385542176,Birmingham,14 Oxford St,Laptop,4,769.16,Female,46,Debit Card
+POS-0249,2024-12-26 14:27:28.192771088,Edinburgh,5 Deansgate,Tablet,4,423.26,Male,22,Credit Card
+POS-0250,2024-12-31 00:00:00.000000000,London,14 Oxford St,Smartphone,9,309.63,Female,21,Cash

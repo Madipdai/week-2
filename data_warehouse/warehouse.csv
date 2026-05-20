@@ -1,0 +1,453 @@
+transaction_id,timestamp,city,store,product,quantity,unit_price,gender,age,payment,date,total_sales,season,age_group,price_tier,revenue_band,year
+TXN-0002,2022-01-05,Birmingham,22 Kings Road,Headphones,4.0,919.37,Female,41,PayPal,2022-01-05 00:00:00.000000000,3677.48,Q1,Middle-Aged,Premium,High,2022
+TXN-0003,2022-01-09,Manchester,5 Deansgate,Camera,6.0,90.14,Female,38,Credit Card,2022-01-09 00:00:00.000000000,540.84,Q1,Adult,Budget,Medium,2022
+TXN-0004,2022-01-14,Bristol,5 Deansgate,Laptop,1.0,643.27,Male,59,Debit Card,2022-01-14 00:00:00.000000000,643.27,Q1,Senior,Mid-Range,Medium,2022
+TXN-0005,2022-01-18,Birmingham,5 Deansgate,Tablet,9.0,619.68,Male,54,PayPal,2022-01-18 00:00:00.000000000,5577.12,Q1,Middle-Aged,Mid-Range,High,2022
+TXN-0006,2022-01-22,London,8 Canary Wharf,Tablet,9.0,1376.6,Female,31,Cash,2022-01-22 00:00:00.000000000,12389.4,Q1,Adult,Premium,Very High,2022
+TXN-0007,2022-01-27,Manchester,10 Broad St,TV,4.0,801.56,Female,64,Debit Card,2022-01-27 00:00:00.000000000,3206.24,Q1,Senior,Premium,High,2022
+TXN-0008,2022-01-31,Bristol,22 Kings Road,Camera,1.0,287.97,Female,67,Debit Card,2022-01-31 00:00:00.000000000,287.97,Q1,Senior,Mid-Range,Low,2022
+TXN-0009,2022-02-05,Manchester,5 Deansgate,Camera,2.0,1522.95,Female,61,Cash,2022-02-05 00:00:00.000000000,3045.9,Q1,Senior,Luxury,High,2022
+TXN-0010,2022-02-09,Edinburgh,5 Deansgate,Laptop,8.0,820.54,Male,33,Credit Card,2022-02-09 00:00:00.000000000,6564.32,Q1,Adult,Premium,High,2022
+TXN-0012,2022-02-18,Bristol,14 Oxford St,Laptop,7.0,627.73,Male,41,Credit Card,2022-02-18 00:00:00.000000000,4394.110000000001,Q1,Middle-Aged,Mid-Range,High,2022
+TXN-0013,2022-02-22,Birmingham,22 Kings Road,Laptop,8.0,437.5,Male,52,Credit Card,2022-02-22 00:00:00.000000000,3500.0,Q1,Middle-Aged,Mid-Range,High,2022
+TXN-0014,2022-02-27,Manchester,8 Canary Wharf,Laptop,7.0,1231.62,Male,25,Debit Card,2022-02-27 00:00:00.000000000,8621.34,Q1,Youth,Premium,High,2022
+TXN-0015,2022-03-03,Bristol,22 Kings Road,Tablet,8.0,695.25,Female,44,PayPal,2022-03-03 00:00:00.000000000,5562.0,Q1,Middle-Aged,Mid-Range,High,2022
+TXN-0016,2022-03-07,Bristol,22 Kings Road,Laptop,5.0,970.82,Female,31,PayPal,2022-03-07 00:00:00.000000000,4854.1,Q1,Adult,Premium,High,2022
+TXN-0017,2022-03-12,Manchester,8 Canary Wharf,Tablet,3.0,128.85,Male,49,PayPal,2022-03-12 00:00:00.000000000,386.54999999999995,Q1,Middle-Aged,Budget,Low,2022
+TXN-0018,2022-03-16,Bristol,5 Deansgate,Camera,5.0,976.97,Male,56,Credit Card,2022-03-16 00:00:00.000000000,4884.85,Q1,Senior,Premium,High,2022
+TXN-0019,2022-03-21,Bristol,5 Deansgate,Headphones,7.0,1102.69,Male,68,Cash,2022-03-21 00:00:00.000000000,7718.83,Q1,Senior,Premium,High,2022
+TXN-0020,2022-03-25,Manchester,10 Broad St,Camera,9.0,1766.91,Male,23,Debit Card,2022-03-25 00:00:00.000000000,15902.19,Q1,Youth,Luxury,Very High,2022
+TXN-0022,2022-04-03,London,14 Oxford St,Smartphone,9.0,1818.32,Female,30,Credit Card,2022-04-03 00:00:00.000000000,16364.88,Q2,Adult,Luxury,Very High,2022
+TXN-0023,2022-04-07,Birmingham,14 Oxford St,Camera,5.0,644.32,Male,68,Cash,2022-04-07 00:00:00.000000000,3221.6000000000004,Q2,Senior,Mid-Range,High,2022
+TXN-0024,2022-04-12,Birmingham,14 Oxford St,Tablet,1.0,708.35,Female,66,Cash,2022-04-12 00:00:00.000000000,708.35,Q2,Senior,Premium,Medium,2022
+TXN-0025,2022-04-16,Manchester,22 Kings Road,Laptop,5.0,1926.77,Male,34,PayPal,2022-04-16 00:00:00.000000000,9633.85,Q2,Adult,Luxury,High,2022
+TXN-0026,2022-04-20,Manchester,5 Deansgate,Camera,7.0,1238.65,Male,49,Credit Card,2022-04-20 00:00:00.000000000,8670.550000000001,Q2,Middle-Aged,Premium,High,2022
+TXN-0027,2022-04-25,Manchester,10 Broad St,Tablet,6.0,1286.99,Female,21,PayPal,2022-04-25 00:00:00.000000000,7721.9400000000005,Q2,Youth,Premium,High,2022
+TXN-0028,2022-04-29,Birmingham,14 Oxford St,Camera,8.0,1535.16,Male,69,Cash,2022-04-29 00:00:00.000000000,12281.28,Q2,Senior,Luxury,Very High,2022
+TXN-0029,2022-05-04,Birmingham,14 Oxford St,Laptop,6.0,1285.38,Female,46,PayPal,2022-05-04 00:00:00.000000000,7712.280000000001,Q2,Middle-Aged,Premium,High,2022
+TXN-0030,2022-05-08,Birmingham,5 Deansgate,Smartphone,3.0,1202.24,Male,36,Debit Card,2022-05-08 00:00:00.000000000,3606.7200000000003,Q2,Adult,Premium,High,2022
+TXN-0032,2022-05-17,Birmingham,5 Deansgate,Laptop,9.0,1683.53,Female,40,PayPal,2022-05-17 00:00:00.000000000,15151.77,Q2,Adult,Luxury,Very High,2022
+TXN-0033,2022-05-21,Birmingham,5 Deansgate,TV,9.0,1760.81,Female,66,Cash,2022-05-21 00:00:00.000000000,15847.289999999999,Q2,Senior,Luxury,Very High,2022
+TXN-0034,2022-05-26,Edinburgh,10 Broad St,Headphones,7.0,1992.69,Male,58,PayPal,2022-05-26 00:00:00.000000000,13948.83,Q2,Senior,Luxury,Very High,2022
+TXN-0035,2022-05-30,Birmingham,5 Deansgate,Camera,8.0,1415.7,Male,41,Debit Card,2022-05-30 00:00:00.000000000,11325.6,Q2,Middle-Aged,Premium,Very High,2022
+TXN-0036,2022-06-03,Edinburgh,5 Deansgate,Camera,3.0,214.07,Female,42,PayPal,2022-06-03 00:00:00.000000000,642.21,Q2,Middle-Aged,Mid-Range,Medium,2022
+TXN-0037,2022-06-08,Manchester,8 Canary Wharf,TV,6.0,1948.64,Male,33,Credit Card,2022-06-08 00:00:00.000000000,11691.84,Q2,Adult,Luxury,Very High,2022
+TXN-0038,2022-06-12,London,5 Deansgate,Laptop,5.0,487.33,Female,37,Debit Card,2022-06-12 00:00:00.000000000,2436.65,Q2,Adult,Mid-Range,High,2022
+TXN-0039,2022-06-17,Birmingham,14 Oxford St,Laptop,3.0,1316.78,Female,39,Cash,2022-06-17 00:00:00.000000000,3950.34,Q2,Adult,Premium,High,2022
+TXN-0040,2022-06-21,Bristol,22 Kings Road,Camera,8.0,1200.25,Male,44,Cash,2022-06-21 00:00:00.000000000,9602.0,Q2,Middle-Aged,Premium,High,2022
+TXN-0042,2022-06-30,London,14 Oxford St,Tablet,5.0,1165.41,Female,52,Debit Card,2022-06-30 00:00:00.000000000,5827.05,Q2,Middle-Aged,Premium,High,2022
+TXN-0043,2022-07-04,Bristol,14 Oxford St,Camera,5.0,80.14,Male,52,Debit Card,2022-07-04 00:00:00.000000000,400.7,Q3,Middle-Aged,Budget,Low,2022
+TXN-0044,2022-07-09,Bristol,10 Broad St,Laptop,3.0,1713.37,Female,35,Credit Card,2022-07-09 00:00:00.000000000,5140.11,Q3,Adult,Luxury,High,2022
+TXN-0045,2022-07-13,Manchester,22 Kings Road,Camera,8.0,819.65,Female,49,PayPal,2022-07-13 00:00:00.000000000,6557.2,Q3,Middle-Aged,Premium,High,2022
+TXN-0046,2022-07-17,Manchester,22 Kings Road,TV,2.0,1980.61,Female,34,Debit Card,2022-07-17 00:00:00.000000000,3961.22,Q3,Adult,Luxury,High,2022
+TXN-0047,2022-07-22,Birmingham,10 Broad St,TV,7.0,1409.18,Female,52,Cash,2022-07-22 00:00:00.000000000,9864.26,Q3,Middle-Aged,Premium,High,2022
+TXN-0048,2022-07-26,Bristol,5 Deansgate,TV,7.0,1740.79,Male,53,Credit Card,2022-07-26 00:00:00.000000000,12185.529999999999,Q3,Middle-Aged,Luxury,Very High,2022
+TXN-0049,2022-07-31,Edinburgh,22 Kings Road,Tablet,2.0,428.83,Female,49,PayPal,2022-07-31 00:00:00.000000000,857.66,Q3,Middle-Aged,Mid-Range,Medium,2022
+TXN-0050,2022-08-04,Birmingham,14 Oxford St,TV,6.0,1360.45,Female,39,Credit Card,2022-08-04 00:00:00.000000000,8162.700000000001,Q3,Adult,Premium,High,2022
+TXN-0052,2022-08-13,Edinburgh,10 Broad St,Tablet,6.0,579.51,Male,49,Debit Card,2022-08-13 00:00:00.000000000,3477.06,Q3,Middle-Aged,Mid-Range,High,2022
+TXN-0053,2022-08-17,Birmingham,5 Deansgate,Headphones,2.0,852.14,Female,59,Cash,2022-08-17 00:00:00.000000000,1704.28,Q3,Senior,Premium,Medium,2022
+TXN-0054,2022-08-22,Birmingham,5 Deansgate,TV,7.0,130.08,Female,54,Cash,2022-08-22 00:00:00.000000000,910.5600000000001,Q3,Middle-Aged,Budget,Medium,2022
+TXN-0055,2022-08-26,London,5 Deansgate,Headphones,1.0,1927.16,Female,18,PayPal,2022-08-26 00:00:00.000000000,1927.16,Q3,Youth,Luxury,Medium,2022
+TXN-0056,2022-08-30,London,10 Broad St,Headphones,1.0,537.97,Female,56,Debit Card,2022-08-30 00:00:00.000000000,537.97,Q3,Senior,Mid-Range,Medium,2022
+TXN-0057,2022-09-04,Bristol,22 Kings Road,Tablet,3.0,1130.99,Male,39,Credit Card,2022-09-04 00:00:00.000000000,3392.9700000000003,Q3,Adult,Premium,High,2022
+TXN-0058,2022-09-08,Edinburgh,10 Broad St,Laptop,4.0,716.67,Male,29,Debit Card,2022-09-08 00:00:00.000000000,2866.68,Q3,Adult,Premium,High,2022
+TXN-0059,2022-09-13,Bristol,5 Deansgate,Laptop,5.0,240.78,Male,27,Cash,2022-09-13 00:00:00.000000000,1203.9,Q3,Adult,Mid-Range,Medium,2022
+TXN-0060,2022-09-17,Manchester,5 Deansgate,TV,3.0,1288.43,Female,49,Credit Card,2022-09-17 00:00:00.000000000,3865.29,Q3,Middle-Aged,Premium,High,2022
+TXN-0062,2022-09-26,Birmingham,5 Deansgate,Tablet,2.0,1741.04,Male,50,Credit Card,2022-09-26 00:00:00.000000000,3482.08,Q3,Middle-Aged,Luxury,High,2022
+TXN-0063,2022-09-30,Birmingham,10 Broad St,Tablet,3.0,1631.85,Male,50,Debit Card,2022-09-30 00:00:00.000000000,4895.549999999999,Q3,Middle-Aged,Luxury,High,2022
+TXN-0064,2022-10-05,Edinburgh,10 Broad St,Headphones,2.0,1815.43,Male,68,Cash,2022-10-05 00:00:00.000000000,3630.86,Q4,Senior,Luxury,High,2022
+TXN-0065,2022-10-09,London,8 Canary Wharf,Headphones,2.0,1381.86,Male,58,PayPal,2022-10-09 00:00:00.000000000,2763.72,Q4,Senior,Premium,High,2022
+TXN-0066,2022-10-13,Bristol,8 Canary Wharf,Headphones,8.0,280.42,Female,42,Credit Card,2022-10-13 00:00:00.000000000,2243.36,Q4,Middle-Aged,Mid-Range,High,2022
+TXN-0067,2022-10-18,Edinburgh,8 Canary Wharf,Headphones,9.0,1936.78,Female,52,Credit Card,2022-10-18 00:00:00.000000000,17431.02,Q4,Middle-Aged,Luxury,Very High,2022
+TXN-0068,2022-10-22,Edinburgh,8 Canary Wharf,Laptop,7.0,1476.71,Female,41,PayPal,2022-10-22 00:00:00.000000000,10336.970000000001,Q4,Middle-Aged,Premium,Very High,2022
+TXN-0069,2022-10-27,Bristol,5 Deansgate,Laptop,7.0,1864.98,Male,40,Credit Card,2022-10-27 00:00:00.000000000,13054.86,Q4,Adult,Luxury,Very High,2022
+TXN-0070,2022-10-31,London,14 Oxford St,Camera,4.0,514.56,Female,42,Cash,2022-10-31 00:00:00.000000000,2058.24,Q4,Middle-Aged,Mid-Range,High,2022
+TXN-0072,2022-11-09,Edinburgh,5 Deansgate,Smartphone,5.0,228.01,Male,52,Debit Card,2022-11-09 00:00:00.000000000,1140.05,Q4,Middle-Aged,Mid-Range,Medium,2022
+TXN-0073,2022-11-13,Birmingham,10 Broad St,Tablet,5.0,690.9,Male,33,Credit Card,2022-11-13 00:00:00.000000000,3454.5,Q4,Adult,Mid-Range,High,2022
+TXN-0074,2022-11-18,Bristol,8 Canary Wharf,TV,7.0,271.26,Female,48,Cash,2022-11-18 00:00:00.000000000,1898.82,Q4,Middle-Aged,Mid-Range,Medium,2022
+TXN-0075,2022-11-22,Bristol,22 Kings Road,Smartphone,2.0,910.98,Male,29,Credit Card,2022-11-22 00:00:00.000000000,1821.96,Q4,Adult,Premium,Medium,2022
+TXN-0076,2022-11-26,Edinburgh,14 Oxford St,Headphones,6.0,1534.95,Male,63,Credit Card,2022-11-26 00:00:00.000000000,9209.7,Q4,Senior,Luxury,High,2022
+TXN-0077,2022-12-01,London,8 Canary Wharf,Smartphone,2.0,484.02,Male,46,Credit Card,2022-12-01 00:00:00.000000000,968.04,Q4,Middle-Aged,Mid-Range,Medium,2022
+TXN-0078,2022-12-05,Bristol,14 Oxford St,Camera,4.0,504.79,Male,24,Credit Card,2022-12-05 00:00:00.000000000,2019.16,Q4,Youth,Mid-Range,High,2022
+TXN-0079,2022-12-10,Edinburgh,5 Deansgate,Smartphone,6.0,1204.18,Male,44,Cash,2022-12-10 00:00:00.000000000,7225.08,Q4,Middle-Aged,Premium,High,2022
+TXN-0080,2022-12-14,Birmingham,10 Broad St,Headphones,2.0,1817.39,Female,37,Debit Card,2022-12-14 00:00:00.000000000,3634.78,Q4,Adult,Luxury,High,2022
+TXN-0082,2022-12-23,Edinburgh,14 Oxford St,Laptop,8.0,830.43,Male,55,Credit Card,2022-12-23 00:00:00.000000000,6643.44,Q4,Middle-Aged,Premium,High,2022
+TXN-0083,2022-12-27,Edinburgh,10 Broad St,Headphones,5.0,1928.28,Female,38,PayPal,2022-12-27 00:00:00.000000000,9641.4,Q4,Adult,Luxury,High,2022
+TXN-0084,2023-01-01,Edinburgh,22 Kings Road,Smartphone,4.0,1842.28,Male,35,PayPal,2023-01-01 00:00:00.000000000,7369.12,Q1,Adult,Luxury,High,2023
+TXN-0085,2023-01-05,London,10 Broad St,Camera,6.0,1277.33,Male,33,PayPal,2023-01-05 00:00:00.000000000,7663.98,Q1,Adult,Premium,High,2023
+TXN-0086,2023-01-09,Edinburgh,8 Canary Wharf,Camera,8.0,138.62,Female,25,Cash,2023-01-09 00:00:00.000000000,1108.96,Q1,Youth,Budget,Medium,2023
+TXN-0087,2023-01-14,Manchester,8 Canary Wharf,Tablet,2.0,416.84,Female,45,Credit Card,2023-01-14 00:00:00.000000000,833.68,Q1,Middle-Aged,Mid-Range,Medium,2023
+TXN-0088,2023-01-18,Birmingham,14 Oxford St,Laptop,1.0,1950.07,Male,37,Credit Card,2023-01-18 00:00:00.000000000,1950.07,Q1,Adult,Luxury,Medium,2023
+TXN-0089,2023-01-22,Bristol,10 Broad St,Camera,3.0,1385.23,Male,23,Cash,2023-01-22 00:00:00.000000000,4155.6900000000005,Q1,Youth,Premium,High,2023
+TXN-0090,2023-01-27,Bristol,14 Oxford St,TV,8.0,862.45,Female,67,PayPal,2023-01-27 00:00:00.000000000,6899.6,Q1,Senior,Premium,High,2023
+TXN-0092,2023-02-05,Bristol,8 Canary Wharf,Laptop,6.0,343.31,Male,44,Credit Card,2023-02-05 00:00:00.000000000,2059.86,Q1,Middle-Aged,Mid-Range,High,2023
+TXN-0093,2023-02-09,Manchester,14 Oxford St,Smartphone,1.0,1684.74,Male,65,PayPal,2023-02-09 00:00:00.000000000,1684.74,Q1,Senior,Luxury,Medium,2023
+TXN-0094,2023-02-13,London,10 Broad St,Headphones,6.0,1736.21,Male,40,Credit Card,2023-02-13 00:00:00.000000000,10417.26,Q1,Adult,Luxury,Very High,2023
+TXN-0095,2023-02-18,Manchester,8 Canary Wharf,Smartphone,1.0,1465.94,Male,31,Credit Card,2023-02-18 00:00:00.000000000,1465.94,Q1,Adult,Premium,Medium,2023
+TXN-0096,2023-02-22,Birmingham,10 Broad St,Headphones,4.0,301.86,Female,18,Credit Card,2023-02-22 00:00:00.000000000,1207.44,Q1,Youth,Mid-Range,Medium,2023
+TXN-0097,2023-02-27,Manchester,5 Deansgate,TV,2.0,1526.15,Female,20,PayPal,2023-02-27 00:00:00.000000000,3052.3,Q1,Youth,Luxury,High,2023
+TXN-0098,2023-03-03,London,5 Deansgate,Headphones,9.0,650.17,Male,65,PayPal,2023-03-03 00:00:00.000000000,5851.53,Q1,Senior,Mid-Range,High,2023
+TXN-0099,2023-03-07,Bristol,10 Broad St,Camera,2.0,106.13,Male,68,PayPal,2023-03-07 00:00:00.000000000,212.26,Q1,Senior,Budget,Low,2023
+TXN-0100,2023-03-12,Edinburgh,8 Canary Wharf,Camera,2.0,315.92,Female,35,Cash,2023-03-12 00:00:00.000000000,631.84,Q1,Adult,Mid-Range,Medium,2023
+TXN-0102,2023-03-21,Edinburgh,8 Canary Wharf,Smartphone,1.0,1578.12,Male,46,Debit Card,2023-03-21 00:00:00.000000000,1578.12,Q1,Middle-Aged,Luxury,Medium,2023
+TXN-0103,2023-03-25,London,8 Canary Wharf,Laptop,4.0,945.73,Female,22,Cash,2023-03-25 00:00:00.000000000,3782.92,Q1,Youth,Premium,High,2023
+TXN-0104,2023-03-29,Manchester,10 Broad St,Camera,3.0,1260.57,Male,40,PayPal,2023-03-29 00:00:00.000000000,3781.71,Q1,Adult,Premium,High,2023
+TXN-0105,2023-04-03,Birmingham,5 Deansgate,Tablet,8.0,1190.29,Male,20,Debit Card,2023-04-03 00:00:00.000000000,9522.32,Q2,Youth,Premium,High,2023
+TXN-0106,2023-04-07,Bristol,8 Canary Wharf,Headphones,3.0,974.23,Male,38,Credit Card,2023-04-07 00:00:00.000000000,2922.69,Q2,Adult,Premium,High,2023
+TXN-0107,2023-04-12,Manchester,10 Broad St,Camera,5.0,722.91,Female,18,Credit Card,2023-04-12 00:00:00.000000000,3614.5499999999997,Q2,Youth,Premium,High,2023
+TXN-0108,2023-04-16,Manchester,8 Canary Wharf,Laptop,9.0,948.52,Female,64,Credit Card,2023-04-16 00:00:00.000000000,8536.68,Q2,Senior,Premium,High,2023
+TXN-0109,2023-04-20,Birmingham,10 Broad St,Laptop,4.0,1391.18,Male,25,Credit Card,2023-04-20 00:00:00.000000000,5564.72,Q2,Youth,Premium,High,2023
+TXN-0110,2023-04-25,Edinburgh,8 Canary Wharf,Tablet,7.0,1214.69,Female,41,Cash,2023-04-25 00:00:00.000000000,8502.83,Q2,Middle-Aged,Premium,High,2023
+TXN-0112,2023-05-04,Edinburgh,10 Broad St,TV,6.0,1047.77,Male,68,PayPal,2023-05-04 00:00:00.000000000,6286.62,Q2,Senior,Premium,High,2023
+TXN-0113,2023-05-08,Bristol,5 Deansgate,TV,7.0,254.49,Male,34,PayPal,2023-05-08 00:00:00.000000000,1781.43,Q2,Adult,Mid-Range,Medium,2023
+TXN-0114,2023-05-12,Edinburgh,14 Oxford St,Laptop,4.0,223.95,Male,21,Cash,2023-05-12 00:00:00.000000000,895.8,Q2,Youth,Mid-Range,Medium,2023
+TXN-0115,2023-05-17,Bristol,8 Canary Wharf,Tablet,6.0,1588.88,Female,64,Debit Card,2023-05-17 00:00:00.000000000,9533.28,Q2,Senior,Luxury,High,2023
+TXN-0116,2023-05-21,Edinburgh,22 Kings Road,TV,9.0,1193.74,Male,23,Debit Card,2023-05-21 00:00:00.000000000,10743.66,Q2,Youth,Premium,Very High,2023
+TXN-0117,2023-05-26,Manchester,22 Kings Road,Smartphone,6.0,1309.54,Male,50,Credit Card,2023-05-26 00:00:00.000000000,7857.24,Q2,Middle-Aged,Premium,High,2023
+TXN-0118,2023-05-30,Edinburgh,22 Kings Road,Camera,8.0,248.48,Male,26,PayPal,2023-05-30 00:00:00.000000000,1987.84,Q2,Adult,Mid-Range,Medium,2023
+TXN-0119,2023-06-03,Bristol,5 Deansgate,Camera,2.0,150.69,Female,45,PayPal,2023-06-03 00:00:00.000000000,301.38,Q2,Middle-Aged,Budget,Low,2023
+TXN-0120,2023-06-08,London,22 Kings Road,Camera,9.0,1737.74,Female,32,PayPal,2023-06-08 00:00:00.000000000,15639.66,Q2,Adult,Luxury,Very High,2023
+TXN-0122,2023-06-17,Edinburgh,14 Oxford St,Tablet,1.0,1436.36,Female,64,Credit Card,2023-06-17 00:00:00.000000000,1436.36,Q2,Senior,Premium,Medium,2023
+TXN-0123,2023-06-21,Bristol,22 Kings Road,Tablet,3.0,1240.71,Male,23,Cash,2023-06-21 00:00:00.000000000,3722.13,Q2,Youth,Premium,High,2023
+TXN-0124,2023-06-25,Bristol,8 Canary Wharf,Tablet,2.0,935.82,Male,57,Cash,2023-06-25 00:00:00.000000000,1871.64,Q2,Senior,Premium,Medium,2023
+TXN-0125,2023-06-30,Bristol,14 Oxford St,Laptop,9.0,221.34,Male,32,Debit Card,2023-06-30 00:00:00.000000000,1992.06,Q2,Adult,Mid-Range,Medium,2023
+TXN-0126,2023-07-04,Birmingham,14 Oxford St,Headphones,2.0,1231.9,Female,28,Credit Card,2023-07-04 00:00:00.000000000,2463.8,Q3,Adult,Premium,High,2023
+TXN-0127,2023-07-09,Birmingham,22 Kings Road,Laptop,8.0,449.75,Female,39,Debit Card,2023-07-09 00:00:00.000000000,3598.0,Q3,Adult,Mid-Range,High,2023
+TXN-0128,2023-07-13,Birmingham,14 Oxford St,Headphones,3.0,1691.57,Male,54,Credit Card,2023-07-13 00:00:00.000000000,5074.71,Q3,Middle-Aged,Luxury,High,2023
+TXN-0129,2023-07-17,Manchester,5 Deansgate,Laptop,9.0,509.6,Female,57,Debit Card,2023-07-17 00:00:00.000000000,4586.400000000001,Q3,Senior,Mid-Range,High,2023
+TXN-0130,2023-07-22,Birmingham,10 Broad St,Camera,1.0,906.31,Male,32,Credit Card,2023-07-22 00:00:00.000000000,906.31,Q3,Adult,Premium,Medium,2023
+TXN-0132,2023-07-31,Birmingham,22 Kings Road,TV,4.0,1108.56,Male,64,Credit Card,2023-07-31 00:00:00.000000000,4434.24,Q3,Senior,Premium,High,2023
+TXN-0133,2023-08-04,Birmingham,5 Deansgate,Headphones,6.0,1016.08,Male,50,Credit Card,2023-08-04 00:00:00.000000000,6096.4800000000005,Q3,Middle-Aged,Premium,High,2023
+TXN-0134,2023-08-08,London,5 Deansgate,Camera,2.0,534.55,Female,22,PayPal,2023-08-08 00:00:00.000000000,1069.1,Q3,Youth,Mid-Range,Medium,2023
+TXN-0135,2023-08-13,Bristol,5 Deansgate,Headphones,8.0,1521.54,Female,32,Credit Card,2023-08-13 00:00:00.000000000,12172.32,Q3,Adult,Luxury,Very High,2023
+TXN-0136,2023-08-17,Bristol,5 Deansgate,Tablet,2.0,1102.73,Male,48,PayPal,2023-08-17 00:00:00.000000000,2205.46,Q3,Middle-Aged,Premium,High,2023
+TXN-0137,2023-08-22,Edinburgh,8 Canary Wharf,Smartphone,5.0,1403.2,Female,28,Cash,2023-08-22 00:00:00.000000000,7016.0,Q3,Adult,Premium,High,2023
+TXN-0138,2023-08-26,Manchester,22 Kings Road,Tablet,8.0,1821.48,Female,35,Credit Card,2023-08-26 00:00:00.000000000,14571.84,Q3,Adult,Luxury,Very High,2023
+TXN-0139,2023-08-30,Edinburgh,22 Kings Road,Tablet,4.0,549.23,Female,21,Credit Card,2023-08-30 00:00:00.000000000,2196.92,Q3,Youth,Mid-Range,High,2023
+TXN-0140,2023-09-04,Manchester,14 Oxford St,Tablet,9.0,1848.87,Female,68,Credit Card,2023-09-04 00:00:00.000000000,16639.829999999998,Q3,Senior,Luxury,Very High,2023
+TXN-0142,2023-09-13,Edinburgh,14 Oxford St,Laptop,6.0,1970.44,Male,68,Debit Card,2023-09-13 00:00:00.000000000,11822.64,Q3,Senior,Luxury,Very High,2023
+TXN-0143,2023-09-17,London,10 Broad St,Laptop,4.0,1235.39,Male,43,Credit Card,2023-09-17 00:00:00.000000000,4941.56,Q3,Middle-Aged,Premium,High,2023
+TXN-0144,2023-09-21,Edinburgh,14 Oxford St,TV,6.0,272.82,Female,24,Cash,2023-09-21 00:00:00.000000000,1636.92,Q3,Youth,Mid-Range,Medium,2023
+TXN-0145,2023-09-26,Birmingham,14 Oxford St,Smartphone,3.0,987.63,Female,41,Credit Card,2023-09-26 00:00:00.000000000,2962.89,Q3,Middle-Aged,Premium,High,2023
+TXN-0146,2023-09-30,Bristol,14 Oxford St,Laptop,6.0,1021.82,Female,45,Cash,2023-09-30 00:00:00.000000000,6130.92,Q3,Middle-Aged,Premium,High,2023
+TXN-0147,2023-10-05,London,5 Deansgate,Laptop,1.0,1343.9,Female,39,Debit Card,2023-10-05 00:00:00.000000000,1343.9,Q4,Adult,Premium,Medium,2023
+TXN-0148,2023-10-09,London,14 Oxford St,Headphones,7.0,1093.39,Male,36,Cash,2023-10-09 00:00:00.000000000,7653.7300000000005,Q4,Adult,Premium,High,2023
+TXN-0149,2023-10-13,Bristol,14 Oxford St,Headphones,8.0,450.02,Male,35,Credit Card,2023-10-13 00:00:00.000000000,3600.16,Q4,Adult,Mid-Range,High,2023
+TXN-0150,2023-10-18,Manchester,8 Canary Wharf,Camera,1.0,1562.28,Female,47,Cash,2023-10-18 00:00:00.000000000,1562.28,Q4,Middle-Aged,Luxury,Medium,2023
+TXN-0152,2023-10-27,Manchester,22 Kings Road,Camera,2.0,777.95,Female,50,PayPal,2023-10-27 00:00:00.000000000,1555.9,Q4,Middle-Aged,Premium,Medium,2023
+TXN-0153,2023-10-31,Manchester,10 Broad St,Laptop,9.0,1958.92,Male,20,Debit Card,2023-10-31 00:00:00.000000000,17630.28,Q4,Youth,Luxury,Very High,2023
+TXN-0154,2023-11-04,Bristol,14 Oxford St,Headphones,3.0,432.42,Male,50,Debit Card,2023-11-04 00:00:00.000000000,1297.26,Q4,Middle-Aged,Mid-Range,Medium,2023
+TXN-0155,2023-11-09,Manchester,22 Kings Road,Camera,8.0,514.46,Female,60,Debit Card,2023-11-09 00:00:00.000000000,4115.68,Q4,Senior,Mid-Range,High,2023
+TXN-0156,2023-11-13,Bristol,10 Broad St,Camera,7.0,824.51,Female,35,PayPal,2023-11-13 00:00:00.000000000,5771.57,Q4,Adult,Premium,High,2023
+TXN-0157,2023-11-18,London,10 Broad St,Smartphone,3.0,1284.82,Female,46,Debit Card,2023-11-18 00:00:00.000000000,3854.46,Q4,Middle-Aged,Premium,High,2023
+TXN-0158,2023-11-22,London,10 Broad St,Tablet,2.0,1422.69,Male,40,PayPal,2023-11-22 00:00:00.000000000,2845.38,Q4,Adult,Premium,High,2023
+TXN-0159,2023-11-26,Bristol,10 Broad St,Camera,9.0,572.72,Female,61,PayPal,2023-11-26 00:00:00.000000000,5154.4800000000005,Q4,Senior,Mid-Range,High,2023
+TXN-0160,2023-12-01,Edinburgh,14 Oxford St,TV,8.0,1899.48,Male,63,PayPal,2023-12-01 00:00:00.000000000,15195.84,Q4,Senior,Luxury,Very High,2023
+TXN-0162,2023-12-10,Bristol,14 Oxford St,Laptop,6.0,1106.19,Female,60,Cash,2023-12-10 00:00:00.000000000,6637.14,Q4,Senior,Premium,High,2023
+TXN-0163,2023-12-14,Manchester,10 Broad St,Headphones,2.0,1969.58,Male,54,PayPal,2023-12-14 00:00:00.000000000,3939.16,Q4,Middle-Aged,Luxury,High,2023
+TXN-0164,2023-12-18,Bristol,8 Canary Wharf,Tablet,9.0,1654.04,Female,51,Credit Card,2023-12-18 00:00:00.000000000,14886.36,Q4,Middle-Aged,Luxury,Very High,2023
+TXN-0165,2023-12-23,Manchester,5 Deansgate,Headphones,6.0,840.23,Male,44,Credit Card,2023-12-23 00:00:00.000000000,5041.38,Q4,Middle-Aged,Premium,High,2023
+TXN-0166,2023-12-27,Birmingham,8 Canary Wharf,Tablet,9.0,569.67,Male,24,Cash,2023-12-27 00:00:00.000000000,5127.03,Q4,Youth,Mid-Range,High,2023
+TXN-0167,2024-01-01,Manchester,10 Broad St,Tablet,2.0,1833.1,Female,60,Credit Card,2024-01-01 00:00:00.000000000,3666.2,Q1,Senior,Luxury,High,2024
+TXN-0168,2024-01-05,Edinburgh,22 Kings Road,TV,5.0,211.46,Male,57,PayPal,2024-01-05 00:00:00.000000000,1057.3,Q1,Senior,Mid-Range,Medium,2024
+TXN-0169,2024-01-09,London,22 Kings Road,Smartphone,6.0,743.56,Female,64,Debit Card,2024-01-09 00:00:00.000000000,4461.36,Q1,Senior,Premium,High,2024
+TXN-0170,2024-01-14,Bristol,14 Oxford St,TV,4.0,1876.82,Male,37,PayPal,2024-01-14 00:00:00.000000000,7507.28,Q1,Adult,Luxury,High,2024
+TXN-0172,2024-01-22,London,14 Oxford St,Laptop,9.0,257.87,Male,60,Debit Card,2024-01-22 00:00:00.000000000,2320.83,Q1,Senior,Mid-Range,High,2024
+TXN-0173,2024-01-27,Birmingham,22 Kings Road,TV,5.0,897.91,Female,61,PayPal,2024-01-27 00:00:00.000000000,4489.55,Q1,Senior,Premium,High,2024
+TXN-0174,2024-01-31,Manchester,5 Deansgate,Smartphone,5.0,580.68,Female,66,Credit Card,2024-01-31 00:00:00.000000000,2903.3999999999996,Q1,Senior,Mid-Range,High,2024
+TXN-0175,2024-02-05,London,14 Oxford St,Tablet,8.0,1590.53,Male,25,PayPal,2024-02-05 00:00:00.000000000,12724.24,Q1,Youth,Luxury,Very High,2024
+TXN-0176,2024-02-09,Bristol,14 Oxford St,TV,9.0,1622.79,Female,32,PayPal,2024-02-09 00:00:00.000000000,14605.11,Q1,Adult,Luxury,Very High,2024
+TXN-0177,2024-02-13,Bristol,8 Canary Wharf,TV,7.0,1975.95,Male,40,Cash,2024-02-13 00:00:00.000000000,13831.65,Q1,Adult,Luxury,Very High,2024
+TXN-0178,2024-02-18,Manchester,10 Broad St,Laptop,3.0,1157.49,Female,25,Cash,2024-02-18 00:00:00.000000000,3472.4700000000003,Q1,Youth,Premium,High,2024
+TXN-0179,2024-02-22,Bristol,8 Canary Wharf,Camera,4.0,872.44,Male,52,Cash,2024-02-22 00:00:00.000000000,3489.76,Q1,Middle-Aged,Premium,High,2024
+TXN-0180,2024-02-27,London,22 Kings Road,Tablet,2.0,1068.75,Male,54,PayPal,2024-02-27 00:00:00.000000000,2137.5,Q1,Middle-Aged,Premium,High,2024
+TXN-0182,2024-03-06,London,10 Broad St,TV,2.0,1488.82,Male,52,Cash,2024-03-06 00:00:00.000000000,2977.64,Q1,Middle-Aged,Premium,High,2024
+TXN-0183,2024-03-11,Birmingham,10 Broad St,Headphones,2.0,1981.17,Female,49,PayPal,2024-03-11 00:00:00.000000000,3962.34,Q1,Middle-Aged,Luxury,High,2024
+TXN-0184,2024-03-15,Edinburgh,10 Broad St,Camera,1.0,186.56,Male,61,Credit Card,2024-03-15 00:00:00.000000000,186.56,Q1,Senior,Budget,Low,2024
+TXN-0185,2024-03-20,Edinburgh,14 Oxford St,TV,9.0,1182.48,Male,56,Debit Card,2024-03-20 00:00:00.000000000,10642.32,Q1,Senior,Premium,Very High,2024
+TXN-0186,2024-03-24,London,22 Kings Road,Headphones,8.0,1488.29,Female,67,Debit Card,2024-03-24 00:00:00.000000000,11906.32,Q1,Senior,Premium,Very High,2024
+TXN-0187,2024-03-28,Bristol,14 Oxford St,Laptop,5.0,1445.33,Female,32,Credit Card,2024-03-28 00:00:00.000000000,7226.65,Q1,Adult,Premium,High,2024
+TXN-0188,2024-04-02,London,5 Deansgate,Tablet,5.0,263.46,Male,54,PayPal,2024-04-02 00:00:00.000000000,1317.3,Q2,Middle-Aged,Mid-Range,Medium,2024
+TXN-0189,2024-04-06,Birmingham,10 Broad St,TV,9.0,1197.68,Male,69,Debit Card,2024-04-06 00:00:00.000000000,10779.12,Q2,Senior,Premium,Very High,2024
+TXN-0190,2024-04-11,Edinburgh,10 Broad St,Camera,5.0,501.76,Male,62,Cash,2024-04-11 00:00:00.000000000,2508.8,Q2,Senior,Mid-Range,High,2024
+TXN-0192,2024-04-19,Bristol,14 Oxford St,Laptop,3.0,732.74,Female,66,Credit Card,2024-04-19 00:00:00.000000000,2198.2200000000003,Q2,Senior,Premium,High,2024
+TXN-0193,2024-04-24,Birmingham,8 Canary Wharf,TV,1.0,557.46,Female,20,Debit Card,2024-04-24 00:00:00.000000000,557.46,Q2,Youth,Mid-Range,Medium,2024
+TXN-0194,2024-04-28,Bristol,10 Broad St,Laptop,9.0,953.59,Female,31,Credit Card,2024-04-28 00:00:00.000000000,8582.31,Q2,Adult,Premium,High,2024
+TXN-0195,2024-05-03,London,22 Kings Road,Smartphone,9.0,228.4,Male,42,Cash,2024-05-03 00:00:00.000000000,2055.6,Q2,Middle-Aged,Mid-Range,High,2024
+TXN-0196,2024-05-07,London,14 Oxford St,Headphones,2.0,1731.15,Female,32,Cash,2024-05-07 00:00:00.000000000,3462.3,Q2,Adult,Luxury,High,2024
+TXN-0197,2024-05-11,Bristol,8 Canary Wharf,TV,6.0,556.52,Male,65,Credit Card,2024-05-11 00:00:00.000000000,3339.12,Q2,Senior,Mid-Range,High,2024
+TXN-0198,2024-05-16,Bristol,14 Oxford St,TV,8.0,1794.24,Male,49,Cash,2024-05-16 00:00:00.000000000,14353.92,Q2,Middle-Aged,Luxury,Very High,2024
+TXN-0199,2024-05-20,Manchester,22 Kings Road,TV,8.0,1205.2,Male,30,Credit Card,2024-05-20 00:00:00.000000000,9641.6,Q2,Adult,Premium,High,2024
+TXN-0200,2024-05-25,Birmingham,5 Deansgate,Laptop,9.0,1481.12,Male,60,Credit Card,2024-05-25 00:00:00.000000000,13330.079999999998,Q2,Senior,Premium,Very High,2024
+TXN-0202,2024-06-02,Manchester,14 Oxford St,Smartphone,7.0,1767.7,Female,27,Debit Card,2024-06-02 00:00:00.000000000,12373.9,Q2,Adult,Luxury,Very High,2024
+TXN-0203,2024-06-07,Manchester,5 Deansgate,TV,7.0,703.48,Female,49,Credit Card,2024-06-07 00:00:00.000000000,4924.360000000001,Q2,Middle-Aged,Premium,High,2024
+TXN-0204,2024-06-11,London,14 Oxford St,Laptop,8.0,1253.01,Male,51,Debit Card,2024-06-11 00:00:00.000000000,10024.08,Q2,Middle-Aged,Premium,Very High,2024
+TXN-0205,2024-06-16,Bristol,22 Kings Road,Camera,3.0,67.69,Female,24,Cash,2024-06-16 00:00:00.000000000,203.07,Q2,Youth,Budget,Low,2024
+TXN-0206,2024-06-20,Manchester,5 Deansgate,Tablet,5.0,892.87,Male,39,Debit Card,2024-06-20 00:00:00.000000000,4464.35,Q2,Adult,Premium,High,2024
+TXN-0207,2024-06-24,Edinburgh,8 Canary Wharf,Tablet,1.0,388.82,Female,39,Credit Card,2024-06-24 00:00:00.000000000,388.82,Q2,Adult,Mid-Range,Low,2024
+TXN-0208,2024-06-29,London,8 Canary Wharf,Smartphone,2.0,1185.23,Female,31,Debit Card,2024-06-29 00:00:00.000000000,2370.46,Q2,Adult,Premium,High,2024
+TXN-0209,2024-07-03,Edinburgh,5 Deansgate,Smartphone,3.0,1368.3,Female,29,PayPal,2024-07-03 00:00:00.000000000,4104.9,Q3,Adult,Premium,High,2024
+TXN-0210,2024-07-08,London,22 Kings Road,Smartphone,7.0,177.97,Female,51,Cash,2024-07-08 00:00:00.000000000,1245.79,Q3,Middle-Aged,Budget,Medium,2024
+TXN-0212,2024-07-16,Bristol,10 Broad St,Smartphone,4.0,1077.7,Female,19,PayPal,2024-07-16 00:00:00.000000000,4310.8,Q3,Youth,Premium,High,2024
+TXN-0213,2024-07-21,Birmingham,22 Kings Road,Smartphone,1.0,1376.97,Female,61,Debit Card,2024-07-21 00:00:00.000000000,1376.97,Q3,Senior,Premium,Medium,2024
+TXN-0214,2024-07-25,Bristol,10 Broad St,Smartphone,4.0,893.05,Female,36,Credit Card,2024-07-25 00:00:00.000000000,3572.2,Q3,Adult,Premium,High,2024
+TXN-0215,2024-07-30,Birmingham,14 Oxford St,TV,6.0,912.48,Male,51,Credit Card,2024-07-30 00:00:00.000000000,5474.88,Q3,Middle-Aged,Premium,High,2024
+TXN-0216,2024-08-03,London,14 Oxford St,Tablet,2.0,440.7,Male,61,Debit Card,2024-08-03 00:00:00.000000000,881.4,Q3,Senior,Mid-Range,Medium,2024
+TXN-0217,2024-08-07,Edinburgh,14 Oxford St,Laptop,5.0,1109.3,Female,32,PayPal,2024-08-07 00:00:00.000000000,5546.5,Q3,Adult,Premium,High,2024
+TXN-0218,2024-08-12,Edinburgh,22 Kings Road,Headphones,5.0,1697.33,Female,20,Debit Card,2024-08-12 00:00:00.000000000,8486.65,Q3,Youth,Luxury,High,2024
+TXN-0219,2024-08-16,London,14 Oxford St,Camera,4.0,1603.25,Female,26,Cash,2024-08-16 00:00:00.000000000,6413.0,Q3,Adult,Luxury,High,2024
+TXN-0220,2024-08-21,Edinburgh,10 Broad St,Headphones,2.0,489.8,Female,25,PayPal,2024-08-21 00:00:00.000000000,979.6,Q3,Youth,Mid-Range,Medium,2024
+TXN-0222,2024-08-29,Birmingham,10 Broad St,Laptop,1.0,1950.66,Female,55,Credit Card,2024-08-29 00:00:00.000000000,1950.66,Q3,Middle-Aged,Luxury,Medium,2024
+TXN-0223,2024-09-03,Birmingham,14 Oxford St,Laptop,9.0,127.26,Female,49,PayPal,2024-09-03 00:00:00.000000000,1145.3400000000001,Q3,Middle-Aged,Budget,Medium,2024
+TXN-0224,2024-09-07,Edinburgh,5 Deansgate,Laptop,8.0,1022.83,Female,67,Debit Card,2024-09-07 00:00:00.000000000,8182.64,Q3,Senior,Premium,High,2024
+TXN-0225,2024-09-12,London,14 Oxford St,Laptop,1.0,191.21,Male,69,Cash,2024-09-12 00:00:00.000000000,191.21,Q3,Senior,Budget,Low,2024
+TXN-0226,2024-09-16,Manchester,8 Canary Wharf,Camera,2.0,824.0,Male,51,Cash,2024-09-16 00:00:00.000000000,1648.0,Q3,Middle-Aged,Premium,Medium,2024
+TXN-0227,2024-09-20,London,22 Kings Road,Headphones,3.0,376.59,Male,23,Credit Card,2024-09-20 00:00:00.000000000,1129.77,Q3,Youth,Mid-Range,Medium,2024
+TXN-0228,2024-09-25,London,8 Canary Wharf,Tablet,8.0,1875.61,Female,67,Debit Card,2024-09-25 00:00:00.000000000,15004.88,Q3,Senior,Luxury,Very High,2024
+TXN-0229,2024-09-29,Birmingham,22 Kings Road,Tablet,4.0,1613.37,Female,39,Cash,2024-09-29 00:00:00.000000000,6453.48,Q3,Adult,Luxury,High,2024
+TXN-0230,2024-10-04,London,5 Deansgate,TV,2.0,987.76,Female,29,PayPal,2024-10-04 00:00:00.000000000,1975.52,Q4,Adult,Premium,Medium,2024
+TXN-0232,2024-10-12,Bristol,10 Broad St,Headphones,7.0,966.86,Female,68,Debit Card,2024-10-12 00:00:00.000000000,6768.02,Q4,Senior,Premium,High,2024
+TXN-0233,2024-10-17,Manchester,22 Kings Road,Camera,5.0,1132.96,Female,58,PayPal,2024-10-17 00:00:00.000000000,5664.8,Q4,Senior,Premium,High,2024
+TXN-0234,2024-10-21,Manchester,22 Kings Road,Smartphone,6.0,1318.14,Male,32,Credit Card,2024-10-21 00:00:00.000000000,7908.84,Q4,Adult,Premium,High,2024
+TXN-0235,2024-10-26,London,10 Broad St,TV,8.0,1688.88,Female,54,Debit Card,2024-10-26 00:00:00.000000000,13511.04,Q4,Middle-Aged,Luxury,Very High,2024
+TXN-0236,2024-10-30,Edinburgh,5 Deansgate,TV,1.0,1483.93,Male,49,Credit Card,2024-10-30 00:00:00.000000000,1483.93,Q4,Middle-Aged,Premium,Medium,2024
+TXN-0237,2024-11-03,Bristol,8 Canary Wharf,Tablet,2.0,905.3,Male,51,Debit Card,2024-11-03 00:00:00.000000000,1810.6,Q4,Middle-Aged,Premium,Medium,2024
+TXN-0238,2024-11-08,Manchester,22 Kings Road,Smartphone,6.0,872.36,Male,29,PayPal,2024-11-08 00:00:00.000000000,5234.16,Q4,Adult,Premium,High,2024
+TXN-0239,2024-11-12,Bristol,14 Oxford St,Smartphone,8.0,1264.78,Female,65,Cash,2024-11-12 00:00:00.000000000,10118.24,Q4,Senior,Premium,Very High,2024
+TXN-0240,2024-11-17,Edinburgh,8 Canary Wharf,Headphones,5.0,400.38,Female,62,Credit Card,2024-11-17 00:00:00.000000000,2001.9,Q4,Senior,Mid-Range,High,2024
+TXN-0242,2024-11-25,London,22 Kings Road,Laptop,9.0,1206.25,Female,19,PayPal,2024-11-25 00:00:00.000000000,10856.25,Q4,Youth,Premium,Very High,2024
+TXN-0243,2024-11-30,London,5 Deansgate,Tablet,7.0,1330.64,Male,48,PayPal,2024-11-30 00:00:00.000000000,9314.480000000001,Q4,Middle-Aged,Premium,High,2024
+TXN-0244,2024-12-04,Manchester,10 Broad St,TV,9.0,1773.23,Male,22,Debit Card,2024-12-04 00:00:00.000000000,15959.07,Q4,Youth,Luxury,Very High,2024
+TXN-0245,2024-12-09,Edinburgh,14 Oxford St,Laptop,6.0,1196.37,Female,45,Credit Card,2024-12-09 00:00:00.000000000,7178.219999999999,Q4,Middle-Aged,Premium,High,2024
+TXN-0246,2024-12-13,Bristol,5 Deansgate,Headphones,1.0,1230.8,Male,61,Debit Card,2024-12-13 00:00:00.000000000,1230.8,Q4,Senior,Premium,Medium,2024
+TXN-0247,2024-12-17,Edinburgh,22 Kings Road,Headphones,4.0,1191.44,Female,31,Cash,2024-12-17 00:00:00.000000000,4765.76,Q4,Adult,Premium,High,2024
+TXN-0248,2024-12-22,Bristol,5 Deansgate,TV,1.0,289.79,Male,52,Cash,2024-12-22 00:00:00.000000000,289.79,Q4,Middle-Aged,Mid-Range,Low,2024
+TXN-0249,2024-12-26,Birmingham,10 Broad St,Laptop,1.0,401.02,Male,31,Debit Card,2024-12-26 00:00:00.000000000,401.02,Q4,Adult,Mid-Range,Low,2024
+TXN-0250,2024-12-31,Bristol,8 Canary Wharf,Smartphone,2.0,339.27,Male,67,Credit Card,2024-12-31 00:00:00.000000000,678.54,Q4,Senior,Mid-Range,Medium,2024
+POS-0002,2022-01-05 09:32:31.807228915,Edinburgh,5 Deansgate,TV,6.0,1128.82,Male,23,Debit Card,2022-01-05 09:32:31.807228915,6772.92,Q1,Youth,Premium,High,2022
+POS-0003,2022-01-09 19:05:03.614457831,Manchester,22 Kings Road,Smartphone,4.0,1633.8,Female,40,Debit Card,2022-01-09 19:05:03.614457831,6535.2,Q1,Adult,Luxury,High,2022
+POS-0004,2022-01-14 04:37:35.421686747,London,22 Kings Road,TV,5.0,616.61,Female,28,Credit Card,2022-01-14 04:37:35.421686747,3083.05,Q1,Adult,Mid-Range,High,2022
+POS-0005,2022-01-18 14:10:07.228915662,Manchester,22 Kings Road,Camera,4.0,1773.73,Female,60,PayPal,2022-01-18 14:10:07.228915662,7094.92,Q1,Senior,Luxury,High,2022
+POS-0006,2022-01-22 23:42:39.036144578,London,10 Broad St,Headphones,6.0,779.26,Female,30,Cash,2022-01-22 23:42:39.036144578,4675.5599999999995,Q1,Adult,Premium,High,2022
+POS-0007,2022-01-27 09:15:10.843373494,Birmingham,8 Canary Wharf,TV,4.0,632.55,Female,28,Credit Card,2022-01-27 09:15:10.843373494,2530.2,Q1,Adult,Mid-Range,High,2022
+POS-0008,2022-01-31 18:47:42.650602410,Bristol,14 Oxford St,Tablet,6.0,1682.7,Male,21,Cash,2022-01-31 18:47:42.650602410,10096.2,Q1,Youth,Luxury,Very High,2022
+POS-0009,2022-02-05 04:20:14.457831325,Bristol,5 Deansgate,Laptop,6.0,1383.86,Male,22,Cash,2022-02-05 04:20:14.457831325,8303.16,Q1,Youth,Premium,High,2022
+POS-0010,2022-02-09 13:52:46.265060241,Manchester,5 Deansgate,TV,6.0,1498.97,Female,56,PayPal,2022-02-09 13:52:46.265060241,8993.82,Q1,Senior,Premium,High,2022
+POS-0011,2022-02-13 23:25:18.072289157,Edinburgh,5 Deansgate,Camera,3.0,1684.08,Male,66,Cash,2022-02-13 23:25:18.072289157,5052.24,Q1,Senior,Luxury,High,2022
+POS-0012,2022-02-18 08:57:49.879518072,Manchester,8 Canary Wharf,TV,7.0,892.17,Male,62,Debit Card,2022-02-18 08:57:49.879518072,6245.19,Q1,Senior,Premium,High,2022
+POS-0013,2022-02-22 18:30:21.686746988,Manchester,14 Oxford St,Laptop,6.0,1042.36,Male,55,Debit Card,2022-02-22 18:30:21.686746988,6254.16,Q1,Middle-Aged,Premium,High,2022
+POS-0014,2022-02-27 04:02:53.493975904,London,8 Canary Wharf,Camera,1.0,1091.36,Female,39,Cash,2022-02-27 04:02:53.493975904,1091.36,Q1,Adult,Premium,Medium,2022
+POS-0015,2022-03-03 13:35:25.301204820,Edinburgh,22 Kings Road,Headphones,1.0,917.23,Female,22,Debit Card,2022-03-03 13:35:25.301204820,917.23,Q1,Youth,Premium,Medium,2022
+POS-0017,2022-03-12 08:40:28.915662651,Bristol,10 Broad St,Tablet,3.0,308.18,Male,21,Cash,2022-03-12 08:40:28.915662651,924.54,Q1,Youth,Mid-Range,Medium,2022
+POS-0018,2022-03-16 18:13:00.722891567,Birmingham,5 Deansgate,TV,8.0,630.9,Female,22,PayPal,2022-03-16 18:13:00.722891567,5047.2,Q1,Youth,Mid-Range,High,2022
+POS-0019,2022-03-21 03:45:32.530120482,London,5 Deansgate,Camera,7.0,1981.6,Male,53,PayPal,2022-03-21 03:45:32.530120482,13871.199999999999,Q1,Middle-Aged,Luxury,Very High,2022
+POS-0020,2022-03-25 13:18:04.337349398,Bristol,10 Broad St,TV,2.0,172.99,Female,66,Cash,2022-03-25 13:18:04.337349398,345.98,Q1,Senior,Budget,Low,2022
+POS-0021,2022-03-29 22:50:36.144578314,London,10 Broad St,TV,9.0,1339.16,Female,19,Debit Card,2022-03-29 22:50:36.144578314,12052.44,Q1,Youth,Premium,Very High,2022
+POS-0022,2022-04-03 08:23:07.951807229,London,5 Deansgate,Smartphone,6.0,1124.47,Male,48,Debit Card,2022-04-03 08:23:07.951807229,6746.82,Q2,Middle-Aged,Premium,High,2022
+POS-0023,2022-04-07 17:55:39.759036145,Bristol,10 Broad St,TV,1.0,289.99,Male,46,Debit Card,2022-04-07 17:55:39.759036145,289.99,Q2,Middle-Aged,Mid-Range,Low,2022
+POS-0024,2022-04-12 03:28:11.566265061,Manchester,8 Canary Wharf,Tablet,6.0,1226.69,Male,22,Cash,2022-04-12 03:28:11.566265061,7360.14,Q2,Youth,Premium,High,2022
+POS-0025,2022-04-16 13:00:43.373493976,Edinburgh,14 Oxford St,Tablet,7.0,449.99,Female,25,Credit Card,2022-04-16 13:00:43.373493976,3149.9300000000003,Q2,Youth,Mid-Range,High,2022
+POS-0027,2022-04-25 08:05:46.987951808,Edinburgh,10 Broad St,Laptop,8.0,1495.8,Female,64,Cash,2022-04-25 08:05:46.987951808,11966.4,Q2,Senior,Premium,Very High,2022
+POS-0028,2022-04-29 17:38:18.795180724,Bristol,8 Canary Wharf,Headphones,7.0,1882.3,Female,52,Credit Card,2022-04-29 17:38:18.795180724,13176.1,Q2,Middle-Aged,Luxury,Very High,2022
+POS-0029,2022-05-04 03:10:50.602409640,Bristol,10 Broad St,Tablet,9.0,1238.31,Male,52,Cash,2022-05-04 03:10:50.602409640,11144.789999999999,Q2,Middle-Aged,Premium,Very High,2022
+POS-0030,2022-05-08 12:43:22.409638554,Manchester,14 Oxford St,Headphones,8.0,1767.11,Male,48,Debit Card,2022-05-08 12:43:22.409638554,14136.88,Q2,Middle-Aged,Luxury,Very High,2022
+POS-0032,2022-05-17 07:48:26.024096386,Manchester,14 Oxford St,TV,9.0,1739.56,Female,51,Debit Card,2022-05-17 07:48:26.024096386,15656.039999999999,Q2,Middle-Aged,Luxury,Very High,2022
+POS-0033,2022-05-21 17:20:57.831325302,London,10 Broad St,Camera,9.0,364.8,Male,68,Debit Card,2022-05-21 17:20:57.831325302,3283.2000000000003,Q2,Senior,Mid-Range,High,2022
+POS-0034,2022-05-26 02:53:29.638554218,Manchester,14 Oxford St,TV,3.0,583.35,Male,56,PayPal,2022-05-26 02:53:29.638554218,1750.0500000000002,Q2,Senior,Mid-Range,Medium,2022
+POS-0035,2022-05-30 12:26:01.445783134,Edinburgh,10 Broad St,Camera,6.0,1625.57,Female,40,Cash,2022-05-30 12:26:01.445783134,9753.42,Q2,Adult,Luxury,High,2022
+POS-0036,2022-06-03 21:58:33.253012050,Edinburgh,5 Deansgate,Laptop,7.0,1251.35,Male,67,Credit Card,2022-06-03 21:58:33.253012050,8759.449999999999,Q2,Senior,Premium,High,2022
+POS-0037,2022-06-08 07:31:05.060240964,Birmingham,5 Deansgate,TV,8.0,1101.39,Female,67,PayPal,2022-06-08 07:31:05.060240964,8811.12,Q2,Senior,Premium,High,2022
+POS-0038,2022-06-12 17:03:36.867469880,Birmingham,5 Deansgate,Smartphone,8.0,1616.45,Male,33,Debit Card,2022-06-12 17:03:36.867469880,12931.6,Q2,Adult,Luxury,Very High,2022
+POS-0039,2022-06-17 02:36:08.674698796,Edinburgh,5 Deansgate,Tablet,2.0,582.11,Female,66,Cash,2022-06-17 02:36:08.674698796,1164.22,Q2,Senior,Mid-Range,Medium,2022
+POS-0040,2022-06-21 12:08:40.481927712,Bristol,22 Kings Road,TV,5.0,1857.12,Female,59,Credit Card,2022-06-21 12:08:40.481927712,9285.599999999999,Q2,Senior,Luxury,High,2022
+POS-0041,2022-06-25 21:41:12.289156628,London,10 Broad St,TV,2.0,582.45,Male,18,PayPal,2022-06-25 21:41:12.289156628,1164.9,Q2,Youth,Mid-Range,Medium,2022
+POS-0042,2022-06-30 07:13:44.096385544,Bristol,10 Broad St,Headphones,8.0,517.6,Female,62,Debit Card,2022-06-30 07:13:44.096385544,4140.8,Q2,Senior,Mid-Range,High,2022
+POS-0043,2022-07-04 16:46:15.903614458,Edinburgh,14 Oxford St,Headphones,5.0,785.92,Female,28,Credit Card,2022-07-04 16:46:15.903614458,3929.6,Q3,Adult,Premium,High,2022
+POS-0044,2022-07-09 02:18:47.710843374,Manchester,8 Canary Wharf,Tablet,4.0,1502.58,Male,35,Cash,2022-07-09 02:18:47.710843374,6010.32,Q3,Adult,Luxury,High,2022
+POS-0045,2022-07-13 11:51:19.518072290,Bristol,8 Canary Wharf,TV,9.0,854.12,Female,32,Cash,2022-07-13 11:51:19.518072290,7687.08,Q3,Adult,Premium,High,2022
+POS-0047,2022-07-22 06:56:23.132530122,Birmingham,14 Oxford St,Tablet,7.0,1782.55,Female,47,PayPal,2022-07-22 06:56:23.132530122,12477.85,Q3,Middle-Aged,Luxury,Very High,2022
+POS-0048,2022-07-26 16:28:54.939759038,Edinburgh,22 Kings Road,TV,9.0,1988.87,Female,59,Credit Card,2022-07-26 16:28:54.939759038,17899.829999999998,Q3,Senior,Luxury,Very High,2022
+POS-0049,2022-07-31 02:01:26.746987952,Manchester,5 Deansgate,Camera,1.0,1730.5,Male,59,PayPal,2022-07-31 02:01:26.746987952,1730.5,Q3,Senior,Luxury,Medium,2022
+POS-0050,2022-08-04 11:33:58.554216868,Manchester,10 Broad St,Tablet,9.0,1714.12,Male,52,PayPal,2022-08-04 11:33:58.554216868,15427.079999999998,Q3,Middle-Aged,Luxury,Very High,2022
+POS-0052,2022-08-13 06:39:02.168674700,Manchester,10 Broad St,Tablet,4.0,591.87,Female,25,Credit Card,2022-08-13 06:39:02.168674700,2367.48,Q3,Youth,Mid-Range,High,2022
+POS-0053,2022-08-17 16:11:33.975903616,Bristol,10 Broad St,Laptop,3.0,1745.4,Male,47,Credit Card,2022-08-17 16:11:33.975903616,5236.200000000001,Q3,Middle-Aged,Luxury,High,2022
+POS-0054,2022-08-22 01:44:05.783132532,Bristol,8 Canary Wharf,Camera,2.0,1963.13,Female,59,PayPal,2022-08-22 01:44:05.783132532,3926.26,Q3,Senior,Luxury,High,2022
+POS-0055,2022-08-26 11:16:37.590361448,Edinburgh,5 Deansgate,Smartphone,4.0,598.42,Female,62,Credit Card,2022-08-26 11:16:37.590361448,2393.68,Q3,Senior,Mid-Range,High,2022
+POS-0056,2022-08-30 20:49:09.397590364,London,22 Kings Road,Smartphone,5.0,1865.56,Female,28,Cash,2022-08-30 20:49:09.397590364,9327.8,Q3,Adult,Luxury,High,2022
+POS-0057,2022-09-04 06:21:41.204819280,London,10 Broad St,Camera,1.0,1292.09,Female,33,Credit Card,2022-09-04 06:21:41.204819280,1292.09,Q3,Adult,Premium,Medium,2022
+POS-0058,2022-09-08 15:54:13.012048196,Manchester,22 Kings Road,Smartphone,8.0,1090.06,Female,57,Cash,2022-09-08 15:54:13.012048196,8720.48,Q3,Senior,Premium,High,2022
+POS-0059,2022-09-13 01:26:44.819277108,Birmingham,14 Oxford St,Smartphone,8.0,994.79,Female,64,Credit Card,2022-09-13 01:26:44.819277108,7958.32,Q3,Senior,Premium,High,2022
+POS-0060,2022-09-17 10:59:16.626506024,Manchester,8 Canary Wharf,Laptop,9.0,1976.52,Female,49,Credit Card,2022-09-17 10:59:16.626506024,17788.68,Q3,Middle-Aged,Luxury,Very High,2022
+POS-0062,2022-09-26 06:04:20.240963856,Edinburgh,10 Broad St,TV,5.0,199.21,Female,30,Credit Card,2022-09-26 06:04:20.240963856,996.0500000000001,Q3,Adult,Budget,Medium,2022
+POS-0063,2022-09-30 15:36:52.048192772,London,10 Broad St,Laptop,7.0,1229.39,Male,51,Credit Card,2022-09-30 15:36:52.048192772,8605.730000000001,Q3,Middle-Aged,Premium,High,2022
+POS-0064,2022-10-05 01:09:23.855421688,Edinburgh,10 Broad St,Camera,9.0,1312.8,Female,41,PayPal,2022-10-05 01:09:23.855421688,11815.199999999999,Q4,Middle-Aged,Premium,Very High,2022
+POS-0065,2022-10-09 10:41:55.662650604,Edinburgh,5 Deansgate,Smartphone,6.0,1098.08,Female,36,Debit Card,2022-10-09 10:41:55.662650604,6588.48,Q4,Adult,Premium,High,2022
+POS-0066,2022-10-13 20:14:27.469879520,Birmingham,8 Canary Wharf,Laptop,3.0,1501.65,Male,24,PayPal,2022-10-13 20:14:27.469879520,4504.950000000001,Q4,Youth,Luxury,High,2022
+POS-0067,2022-10-18 05:46:59.277108436,London,14 Oxford St,TV,1.0,139.23,Female,22,PayPal,2022-10-18 05:46:59.277108436,139.23,Q4,Youth,Budget,Low,2022
+POS-0068,2022-10-22 15:19:31.084337352,London,5 Deansgate,Smartphone,1.0,1870.57,Female,37,Credit Card,2022-10-22 15:19:31.084337352,1870.57,Q4,Adult,Luxury,Medium,2022
+POS-0069,2022-10-27 00:52:02.891566268,Birmingham,8 Canary Wharf,TV,3.0,1137.76,Male,44,Cash,2022-10-27 00:52:02.891566268,3413.2799999999997,Q4,Middle-Aged,Premium,High,2022
+POS-0070,2022-10-31 10:24:34.698795184,Edinburgh,10 Broad St,Smartphone,4.0,145.71,Male,34,Cash,2022-10-31 10:24:34.698795184,582.84,Q4,Adult,Budget,Medium,2022
+POS-0071,2022-11-04 19:57:06.506024100,Birmingham,8 Canary Wharf,TV,4.0,1986.21,Male,63,PayPal,2022-11-04 19:57:06.506024100,7944.84,Q4,Senior,Luxury,High,2022
+POS-0072,2022-11-09 05:29:38.313253012,Edinburgh,14 Oxford St,TV,5.0,112.9,Female,24,PayPal,2022-11-09 05:29:38.313253012,564.5,Q4,Youth,Budget,Medium,2022
+POS-0073,2022-11-13 15:02:10.120481928,Birmingham,10 Broad St,Tablet,1.0,1590.51,Female,61,Cash,2022-11-13 15:02:10.120481928,1590.51,Q4,Senior,Luxury,Medium,2022
+POS-0074,2022-11-18 00:34:41.927710844,Bristol,14 Oxford St,Laptop,5.0,936.52,Male,66,Credit Card,2022-11-18 00:34:41.927710844,4682.6,Q4,Senior,Premium,High,2022
+POS-0075,2022-11-22 10:07:13.734939760,London,22 Kings Road,TV,1.0,693.59,Female,58,Credit Card,2022-11-22 10:07:13.734939760,693.59,Q4,Senior,Mid-Range,Medium,2022
+POS-0077,2022-12-01 05:12:17.349397592,Birmingham,22 Kings Road,Headphones,9.0,870.67,Male,32,Credit Card,2022-12-01 05:12:17.349397592,7836.03,Q4,Adult,Premium,High,2022
+POS-0078,2022-12-05 14:44:49.156626508,Edinburgh,5 Deansgate,TV,6.0,357.64,Male,28,Credit Card,2022-12-05 14:44:49.156626508,2145.84,Q4,Adult,Mid-Range,High,2022
+POS-0079,2022-12-10 00:17:20.963855424,Manchester,8 Canary Wharf,Smartphone,9.0,876.14,Female,40,Credit Card,2022-12-10 00:17:20.963855424,7885.26,Q4,Adult,Premium,High,2022
+POS-0080,2022-12-14 09:49:52.771084340,Bristol,8 Canary Wharf,TV,6.0,1410.77,Female,55,PayPal,2022-12-14 09:49:52.771084340,8464.619999999999,Q4,Middle-Aged,Premium,High,2022
+POS-0081,2022-12-18 19:22:24.578313256,Bristol,10 Broad St,TV,3.0,1875.34,Male,57,Credit Card,2022-12-18 19:22:24.578313256,5626.0199999999995,Q4,Senior,Luxury,High,2022
+POS-0082,2022-12-23 04:54:56.385542172,Manchester,14 Oxford St,Laptop,3.0,1392.72,Female,29,Cash,2022-12-23 04:54:56.385542172,4178.16,Q4,Adult,Premium,High,2022
+POS-0083,2022-12-27 14:27:28.192771088,Edinburgh,22 Kings Road,Smartphone,5.0,1643.27,Female,43,Debit Card,2022-12-27 14:27:28.192771088,8216.35,Q4,Middle-Aged,Luxury,High,2022
+POS-0084,2023-01-01 00:00:00.000000004,Edinburgh,22 Kings Road,TV,8.0,1568.22,Female,55,Credit Card,2023-01-01 00:00:00.000000004,12545.76,Q1,Middle-Aged,Luxury,Very High,2023
+POS-0085,2023-01-05 09:32:31.807228916,Bristol,5 Deansgate,Headphones,7.0,58.93,Male,23,Credit Card,2023-01-05 09:32:31.807228916,412.51,Q1,Youth,Budget,Low,2023
+POS-0086,2023-01-09 19:05:03.614457832,Bristol,5 Deansgate,TV,3.0,1955.03,Male,43,Credit Card,2023-01-09 19:05:03.614457832,5865.09,Q1,Middle-Aged,Luxury,High,2023
+POS-0087,2023-01-14 04:37:35.421686748,Manchester,14 Oxford St,Smartphone,7.0,1645.07,Female,45,Debit Card,2023-01-14 04:37:35.421686748,11515.49,Q1,Middle-Aged,Luxury,Very High,2023
+POS-0088,2023-01-18 14:10:07.228915664,Edinburgh,22 Kings Road,Smartphone,4.0,677.52,Male,33,Debit Card,2023-01-18 14:10:07.228915664,2710.08,Q1,Adult,Mid-Range,High,2023
+POS-0089,2023-01-22 23:42:39.036144580,Edinburgh,10 Broad St,Camera,9.0,1613.27,Male,52,Debit Card,2023-01-22 23:42:39.036144580,14519.43,Q1,Middle-Aged,Luxury,Very High,2023
+POS-0090,2023-01-27 09:15:10.843373496,Birmingham,22 Kings Road,TV,3.0,623.81,Female,28,Debit Card,2023-01-27 09:15:10.843373496,1871.4299999999998,Q1,Adult,Mid-Range,Medium,2023
+POS-0092,2023-02-05 04:20:14.457831328,London,10 Broad St,Camera,1.0,473.76,Female,51,Credit Card,2023-02-05 04:20:14.457831328,473.76,Q1,Middle-Aged,Mid-Range,Low,2023
+POS-0093,2023-02-09 13:52:46.265060244,Edinburgh,14 Oxford St,TV,7.0,204.72,Female,26,Debit Card,2023-02-09 13:52:46.265060244,1433.04,Q1,Adult,Mid-Range,Medium,2023
+POS-0094,2023-02-13 23:25:18.072289160,Bristol,5 Deansgate,Headphones,5.0,959.28,Female,33,PayPal,2023-02-13 23:25:18.072289160,4796.4,Q1,Adult,Premium,High,2023
+POS-0095,2023-02-18 08:57:49.879518076,Edinburgh,22 Kings Road,Smartphone,1.0,1341.76,Female,28,Debit Card,2023-02-18 08:57:49.879518076,1341.76,Q1,Adult,Premium,Medium,2023
+POS-0096,2023-02-22 18:30:21.686746992,Manchester,22 Kings Road,Headphones,6.0,1091.8,Female,56,Debit Card,2023-02-22 18:30:21.686746992,6550.799999999999,Q1,Senior,Premium,High,2023
+POS-0097,2023-02-27 04:02:53.493975904,London,22 Kings Road,Laptop,4.0,1070.79,Male,51,Debit Card,2023-02-27 04:02:53.493975904,4283.16,Q1,Middle-Aged,Premium,High,2023
+POS-0098,2023-03-03 13:35:25.301204824,London,14 Oxford St,TV,5.0,750.59,Male,69,Cash,2023-03-03 13:35:25.301204824,3752.9500000000003,Q1,Senior,Premium,High,2023
+POS-0099,2023-03-07 23:07:57.108433736,London,14 Oxford St,Headphones,3.0,1065.64,Female,22,Cash,2023-03-07 23:07:57.108433736,3196.92,Q1,Youth,Premium,High,2023
+POS-0100,2023-03-12 08:40:28.915662656,Birmingham,8 Canary Wharf,Smartphone,8.0,794.35,Male,37,Debit Card,2023-03-12 08:40:28.915662656,6354.8,Q1,Adult,Premium,High,2023
+POS-0102,2023-03-21 03:45:32.530120488,Bristol,22 Kings Road,Camera,8.0,750.47,Male,46,Credit Card,2023-03-21 03:45:32.530120488,6003.76,Q1,Middle-Aged,Premium,High,2023
+POS-0103,2023-03-25 13:18:04.337349400,London,14 Oxford St,Camera,4.0,1903.4,Female,60,Debit Card,2023-03-25 13:18:04.337349400,7613.6,Q1,Senior,Luxury,High,2023
+POS-0104,2023-03-29 22:50:36.144578312,London,5 Deansgate,TV,6.0,1686.69,Male,57,Debit Card,2023-03-29 22:50:36.144578312,10120.14,Q1,Senior,Luxury,Very High,2023
+POS-0105,2023-04-03 08:23:07.951807232,Edinburgh,8 Canary Wharf,Camera,4.0,419.94,Female,44,Credit Card,2023-04-03 08:23:07.951807232,1679.76,Q2,Middle-Aged,Mid-Range,Medium,2023
+POS-0107,2023-04-12 03:28:11.566265064,Manchester,14 Oxford St,Smartphone,6.0,1884.7,Male,58,Cash,2023-04-12 03:28:11.566265064,11308.2,Q2,Senior,Luxury,Very High,2023
+POS-0108,2023-04-16 13:00:43.373493976,Birmingham,5 Deansgate,Camera,6.0,1189.98,Female,32,Debit Card,2023-04-16 13:00:43.373493976,7139.88,Q2,Adult,Premium,High,2023
+POS-0109,2023-04-20 22:33:15.180722896,London,10 Broad St,TV,9.0,561.29,Female,23,PayPal,2023-04-20 22:33:15.180722896,5051.61,Q2,Youth,Mid-Range,High,2023
+POS-0110,2023-04-25 08:05:46.987951808,London,10 Broad St,Tablet,9.0,1301.48,Male,62,Cash,2023-04-25 08:05:46.987951808,11713.32,Q2,Senior,Premium,Very High,2023
+POS-0111,2023-04-29 17:38:18.795180728,Bristol,5 Deansgate,Headphones,8.0,581.53,Female,49,Cash,2023-04-29 17:38:18.795180728,4652.24,Q2,Middle-Aged,Mid-Range,High,2023
+POS-0112,2023-05-04 03:10:50.602409640,Edinburgh,22 Kings Road,Tablet,6.0,1670.96,Female,32,Credit Card,2023-05-04 03:10:50.602409640,10025.76,Q2,Adult,Luxury,Very High,2023
+POS-0113,2023-05-08 12:43:22.409638560,Manchester,14 Oxford St,Tablet,1.0,1628.16,Female,39,Debit Card,2023-05-08 12:43:22.409638560,1628.16,Q2,Adult,Luxury,Medium,2023
+POS-0114,2023-05-12 22:15:54.216867472,London,5 Deansgate,Headphones,2.0,1314.31,Female,52,Credit Card,2023-05-12 22:15:54.216867472,2628.62,Q2,Middle-Aged,Premium,High,2023
+POS-0115,2023-05-17 07:48:26.024096392,Manchester,10 Broad St,Smartphone,9.0,1575.51,Female,66,Debit Card,2023-05-17 07:48:26.024096392,14179.59,Q2,Senior,Luxury,Very High,2023
+POS-0116,2023-05-21 17:20:57.831325304,Birmingham,8 Canary Wharf,Tablet,5.0,366.19,Female,23,Credit Card,2023-05-21 17:20:57.831325304,1830.95,Q2,Youth,Mid-Range,Medium,2023
+POS-0117,2023-05-26 02:53:29.638554216,Birmingham,22 Kings Road,Headphones,8.0,509.31,Male,45,Cash,2023-05-26 02:53:29.638554216,4074.48,Q2,Middle-Aged,Mid-Range,High,2023
+POS-0118,2023-05-30 12:26:01.445783136,Birmingham,22 Kings Road,Smartphone,8.0,691.38,Male,24,Credit Card,2023-05-30 12:26:01.445783136,5531.04,Q2,Youth,Mid-Range,High,2023
+POS-0119,2023-06-03 21:58:33.253012048,Birmingham,8 Canary Wharf,Smartphone,1.0,236.57,Female,29,Credit Card,2023-06-03 21:58:33.253012048,236.57,Q2,Adult,Mid-Range,Low,2023
+POS-0120,2023-06-08 07:31:05.060240968,Bristol,10 Broad St,Headphones,4.0,1645.89,Male,28,Credit Card,2023-06-08 07:31:05.060240968,6583.56,Q2,Adult,Luxury,High,2023
+POS-0122,2023-06-17 02:36:08.674698800,Bristol,8 Canary Wharf,TV,2.0,52.6,Male,41,PayPal,2023-06-17 02:36:08.674698800,105.2,Q2,Middle-Aged,Budget,Low,2023
+POS-0123,2023-06-21 12:08:40.481927712,Birmingham,22 Kings Road,TV,9.0,696.67,Male,61,Cash,2023-06-21 12:08:40.481927712,6270.03,Q2,Senior,Mid-Range,High,2023
+POS-0124,2023-06-25 21:41:12.289156632,London,5 Deansgate,Headphones,8.0,1300.83,Male,26,Credit Card,2023-06-25 21:41:12.289156632,10406.64,Q2,Adult,Premium,Very High,2023
+POS-0125,2023-06-30 07:13:44.096385544,Birmingham,5 Deansgate,Smartphone,5.0,1377.2,Male,41,PayPal,2023-06-30 07:13:44.096385544,6886.0,Q2,Middle-Aged,Premium,High,2023
+POS-0127,2023-07-09 02:18:47.710843376,Birmingham,14 Oxford St,Headphones,9.0,1841.42,Male,33,Credit Card,2023-07-09 02:18:47.710843376,16572.78,Q3,Adult,Luxury,Very High,2023
+POS-0128,2023-07-13 11:51:19.518072296,Birmingham,10 Broad St,TV,6.0,283.93,Female,35,Debit Card,2023-07-13 11:51:19.518072296,1703.58,Q3,Adult,Mid-Range,Medium,2023
+POS-0129,2023-07-17 21:23:51.325301208,Edinburgh,22 Kings Road,Smartphone,7.0,797.0,Female,18,Credit Card,2023-07-17 21:23:51.325301208,5579.0,Q3,Youth,Premium,High,2023
+POS-0130,2023-07-22 06:56:23.132530120,Birmingham,10 Broad St,Smartphone,8.0,448.75,Female,56,Cash,2023-07-22 06:56:23.132530120,3590.0,Q3,Senior,Mid-Range,High,2023
+POS-0131,2023-07-26 16:28:54.939759040,Birmingham,5 Deansgate,Laptop,9.0,1663.08,Male,45,Credit Card,2023-07-26 16:28:54.939759040,14967.72,Q3,Middle-Aged,Luxury,Very High,2023
+POS-0132,2023-07-31 02:01:26.746987952,Birmingham,8 Canary Wharf,Headphones,9.0,123.63,Male,56,Credit Card,2023-07-31 02:01:26.746987952,1112.67,Q3,Senior,Budget,Medium,2023
+POS-0133,2023-08-04 11:33:58.554216872,Manchester,5 Deansgate,Camera,8.0,382.77,Female,34,PayPal,2023-08-04 11:33:58.554216872,3062.16,Q3,Adult,Mid-Range,High,2023
+POS-0134,2023-08-08 21:06:30.361445784,Edinburgh,8 Canary Wharf,Camera,9.0,998.08,Male,46,Cash,2023-08-08 21:06:30.361445784,8982.720000000001,Q3,Middle-Aged,Premium,High,2023
+POS-0135,2023-08-13 06:39:02.168674704,Edinburgh,22 Kings Road,Headphones,8.0,127.84,Male,61,Cash,2023-08-13 06:39:02.168674704,1022.72,Q3,Senior,Budget,Medium,2023
+POS-0137,2023-08-22 01:44:05.783132536,Birmingham,5 Deansgate,Headphones,8.0,1972.46,Male,45,Debit Card,2023-08-22 01:44:05.783132536,15779.68,Q3,Middle-Aged,Luxury,Very High,2023
+POS-0138,2023-08-26 11:16:37.590361448,Bristol,5 Deansgate,Laptop,6.0,1858.09,Female,18,Credit Card,2023-08-26 11:16:37.590361448,11148.539999999999,Q3,Youth,Luxury,Very High,2023
+POS-0139,2023-08-30 20:49:09.397590368,Bristol,22 Kings Road,TV,8.0,421.85,Female,63,Credit Card,2023-08-30 20:49:09.397590368,3374.8,Q3,Senior,Mid-Range,High,2023
+POS-0140,2023-09-04 06:21:41.204819280,Bristol,22 Kings Road,Headphones,9.0,894.91,Female,50,Debit Card,2023-09-04 06:21:41.204819280,8054.19,Q3,Middle-Aged,Premium,High,2023
+POS-0141,2023-09-08 15:54:13.012048200,Manchester,14 Oxford St,Camera,7.0,867.93,Male,68,PayPal,2023-09-08 15:54:13.012048200,6075.509999999999,Q3,Senior,Premium,High,2023
+POS-0142,2023-09-13 01:26:44.819277112,Manchester,22 Kings Road,Tablet,7.0,333.01,Female,48,Cash,2023-09-13 01:26:44.819277112,2331.0699999999997,Q3,Middle-Aged,Mid-Range,High,2023
+POS-0143,2023-09-17 10:59:16.626506024,Birmingham,10 Broad St,Tablet,8.0,1735.2,Female,50,Credit Card,2023-09-17 10:59:16.626506024,13881.6,Q3,Middle-Aged,Luxury,Very High,2023
+POS-0144,2023-09-21 20:31:48.433734944,Edinburgh,5 Deansgate,TV,8.0,1389.45,Female,36,Credit Card,2023-09-21 20:31:48.433734944,11115.6,Q3,Adult,Premium,Very High,2023
+POS-0145,2023-09-26 06:04:20.240963856,Manchester,8 Canary Wharf,Tablet,4.0,1886.94,Male,43,Debit Card,2023-09-26 06:04:20.240963856,7547.76,Q3,Middle-Aged,Luxury,High,2023
+POS-0146,2023-09-30 15:36:52.048192776,Manchester,14 Oxford St,Tablet,5.0,1639.94,Female,47,Debit Card,2023-09-30 15:36:52.048192776,8199.7,Q3,Middle-Aged,Luxury,High,2023
+POS-0147,2023-10-05 01:09:23.855421688,London,5 Deansgate,TV,9.0,957.45,Female,51,Cash,2023-10-05 01:09:23.855421688,8617.050000000001,Q4,Middle-Aged,Premium,High,2023
+POS-0148,2023-10-09 10:41:55.662650608,Birmingham,10 Broad St,Laptop,2.0,659.92,Male,44,Cash,2023-10-09 10:41:55.662650608,1319.84,Q4,Middle-Aged,Mid-Range,Medium,2023
+POS-0149,2023-10-13 20:14:27.469879520,Bristol,10 Broad St,TV,3.0,1066.59,Male,56,Debit Card,2023-10-13 20:14:27.469879520,3199.7699999999995,Q4,Senior,Premium,High,2023
+POS-0150,2023-10-18 05:46:59.277108440,London,5 Deansgate,Headphones,8.0,1353.52,Female,44,PayPal,2023-10-18 05:46:59.277108440,10828.16,Q4,Middle-Aged,Premium,Very High,2023
+POS-0152,2023-10-27 00:52:02.891566272,London,5 Deansgate,Tablet,5.0,572.25,Female,36,Debit Card,2023-10-27 00:52:02.891566272,2861.25,Q4,Adult,Mid-Range,High,2023
+POS-0153,2023-10-31 10:24:34.698795184,Edinburgh,10 Broad St,Camera,3.0,1774.44,Female,26,PayPal,2023-10-31 10:24:34.698795184,5323.32,Q4,Adult,Luxury,High,2023
+POS-0154,2023-11-04 19:57:06.506024104,Bristol,10 Broad St,Headphones,4.0,1257.01,Female,41,PayPal,2023-11-04 19:57:06.506024104,5028.04,Q4,Middle-Aged,Premium,High,2023
+POS-0155,2023-11-09 05:29:38.313253016,Birmingham,5 Deansgate,Smartphone,7.0,1271.06,Male,34,Cash,2023-11-09 05:29:38.313253016,8897.42,Q4,Adult,Premium,High,2023
+POS-0156,2023-11-13 15:02:10.120481928,London,10 Broad St,Smartphone,4.0,1181.73,Male,40,PayPal,2023-11-13 15:02:10.120481928,4726.92,Q4,Adult,Premium,High,2023
+POS-0157,2023-11-18 00:34:41.927710848,Manchester,14 Oxford St,Headphones,9.0,1725.0,Female,27,PayPal,2023-11-18 00:34:41.927710848,15525.0,Q4,Adult,Luxury,Very High,2023
+POS-0158,2023-11-22 10:07:13.734939760,London,5 Deansgate,Smartphone,9.0,1417.62,Male,39,Debit Card,2023-11-22 10:07:13.734939760,12758.579999999998,Q4,Adult,Premium,Very High,2023
+POS-0159,2023-11-26 19:39:45.542168680,Edinburgh,22 Kings Road,Camera,7.0,1145.67,Female,68,PayPal,2023-11-26 19:39:45.542168680,8019.6900000000005,Q4,Senior,Premium,High,2023
+POS-0160,2023-12-01 05:12:17.349397592,Edinburgh,14 Oxford St,Camera,6.0,1126.12,Male,42,Cash,2023-12-01 05:12:17.349397592,6756.719999999999,Q4,Middle-Aged,Premium,High,2023
+POS-0161,2023-12-05 14:44:49.156626512,Manchester,22 Kings Road,TV,5.0,1982.81,Female,34,PayPal,2023-12-05 14:44:49.156626512,9914.05,Q4,Adult,Luxury,High,2023
+POS-0162,2023-12-10 00:17:20.963855424,London,10 Broad St,Tablet,1.0,967.87,Female,63,Debit Card,2023-12-10 00:17:20.963855424,967.87,Q4,Senior,Premium,Medium,2023
+POS-0163,2023-12-14 09:49:52.771084344,Edinburgh,8 Canary Wharf,Camera,6.0,1094.46,Male,47,Credit Card,2023-12-14 09:49:52.771084344,6566.76,Q4,Middle-Aged,Premium,High,2023
+POS-0164,2023-12-18 19:22:24.578313256,Manchester,5 Deansgate,Smartphone,1.0,1439.97,Male,53,PayPal,2023-12-18 19:22:24.578313256,1439.97,Q4,Middle-Aged,Premium,Medium,2023
+POS-0165,2023-12-23 04:54:56.385542176,Birmingham,14 Oxford St,Smartphone,8.0,1996.8,Female,47,Cash,2023-12-23 04:54:56.385542176,15974.4,Q4,Middle-Aged,Luxury,Very High,2023
+POS-0167,2024-01-01 00:00:00.000000008,London,14 Oxford St,Camera,7.0,1507.35,Male,33,Cash,2024-01-01 00:00:00.000000008,10551.449999999999,Q1,Adult,Luxury,Very High,2024
+POS-0168,2024-01-05 09:32:31.807228920,London,5 Deansgate,Tablet,5.0,392.26,Female,59,Cash,2024-01-05 09:32:31.807228920,1961.3,Q1,Senior,Mid-Range,Medium,2024
+POS-0169,2024-01-09 19:05:03.614457832,London,14 Oxford St,Laptop,5.0,1709.88,Female,66,Credit Card,2024-01-09 19:05:03.614457832,8549.400000000001,Q1,Senior,Luxury,High,2024
+POS-0170,2024-01-14 04:37:35.421686752,Bristol,10 Broad St,Tablet,1.0,769.66,Female,19,Credit Card,2024-01-14 04:37:35.421686752,769.66,Q1,Youth,Premium,Medium,2024
+POS-0171,2024-01-18 14:10:07.228915664,London,10 Broad St,Laptop,4.0,1335.69,Male,22,Debit Card,2024-01-18 14:10:07.228915664,5342.76,Q1,Youth,Premium,High,2024
+POS-0172,2024-01-22 23:42:39.036144584,Manchester,14 Oxford St,Tablet,4.0,954.31,Female,23,PayPal,2024-01-22 23:42:39.036144584,3817.24,Q1,Youth,Premium,High,2024
+POS-0173,2024-01-27 09:15:10.843373496,Manchester,10 Broad St,Camera,4.0,1501.64,Female,18,Cash,2024-01-27 09:15:10.843373496,6006.56,Q1,Youth,Luxury,High,2024
+POS-0174,2024-01-31 18:47:42.650602416,London,22 Kings Road,Camera,9.0,175.08,Male,64,PayPal,2024-01-31 18:47:42.650602416,1575.72,Q1,Senior,Budget,Medium,2024
+POS-0175,2024-02-05 04:20:14.457831328,Birmingham,14 Oxford St,TV,3.0,463.95,Male,62,Cash,2024-02-05 04:20:14.457831328,1391.85,Q1,Senior,Mid-Range,Medium,2024
+POS-0177,2024-02-13 23:25:18.072289160,Birmingham,8 Canary Wharf,Tablet,7.0,1581.26,Male,47,Debit Card,2024-02-13 23:25:18.072289160,11068.82,Q1,Middle-Aged,Luxury,Very High,2024
+POS-0178,2024-02-18 08:57:49.879518080,Manchester,8 Canary Wharf,TV,1.0,1350.69,Female,38,PayPal,2024-02-18 08:57:49.879518080,1350.69,Q1,Adult,Premium,Medium,2024
+POS-0179,2024-02-22 18:30:21.686746992,Manchester,5 Deansgate,Camera,1.0,1013.27,Male,56,Credit Card,2024-02-22 18:30:21.686746992,1013.27,Q1,Senior,Premium,Medium,2024
+POS-0180,2024-02-27 04:02:53.493975912,Bristol,5 Deansgate,Laptop,6.0,855.16,Female,64,Cash,2024-02-27 04:02:53.493975912,5130.96,Q1,Senior,Premium,High,2024
+POS-0182,2024-03-06 23:07:57.108433736,London,10 Broad St,Camera,2.0,1695.05,Male,26,PayPal,2024-03-06 23:07:57.108433736,3390.1,Q1,Adult,Luxury,High,2024
+POS-0183,2024-03-11 08:40:28.915662656,Birmingham,14 Oxford St,Headphones,1.0,286.09,Male,23,Debit Card,2024-03-11 08:40:28.915662656,286.09,Q1,Youth,Mid-Range,Low,2024
+POS-0184,2024-03-15 18:13:00.722891568,Birmingham,8 Canary Wharf,TV,4.0,1891.15,Male,51,PayPal,2024-03-15 18:13:00.722891568,7564.6,Q1,Middle-Aged,Luxury,High,2024
+POS-0185,2024-03-20 03:45:32.530120488,Edinburgh,22 Kings Road,Smartphone,7.0,657.93,Female,47,PayPal,2024-03-20 03:45:32.530120488,4605.509999999999,Q1,Middle-Aged,Mid-Range,High,2024
+POS-0186,2024-03-24 13:18:04.337349400,London,8 Canary Wharf,Camera,1.0,1765.1,Male,63,Cash,2024-03-24 13:18:04.337349400,1765.1,Q1,Senior,Luxury,Medium,2024
+POS-0187,2024-03-28 22:50:36.144578320,Birmingham,22 Kings Road,Smartphone,6.0,1051.14,Male,59,Credit Card,2024-03-28 22:50:36.144578320,6306.84,Q1,Senior,Premium,High,2024
+POS-0188,2024-04-02 08:23:07.951807232,Birmingham,14 Oxford St,TV,4.0,55.97,Male,24,Credit Card,2024-04-02 08:23:07.951807232,223.88,Q2,Youth,Budget,Low,2024
+POS-0189,2024-04-06 17:55:39.759036152,Manchester,10 Broad St,Camera,2.0,1267.53,Male,46,Debit Card,2024-04-06 17:55:39.759036152,2535.06,Q2,Middle-Aged,Premium,High,2024
+POS-0190,2024-04-11 03:28:11.566265064,Bristol,8 Canary Wharf,Camera,8.0,58.5,Male,28,Credit Card,2024-04-11 03:28:11.566265064,468.0,Q2,Adult,Budget,Low,2024
+POS-0191,2024-04-15 13:00:43.373493984,Bristol,5 Deansgate,Smartphone,1.0,442.63,Male,43,PayPal,2024-04-15 13:00:43.373493984,442.63,Q2,Middle-Aged,Mid-Range,Low,2024
+POS-0192,2024-04-19 22:33:15.180722896,Edinburgh,5 Deansgate,Headphones,4.0,1418.79,Female,46,PayPal,2024-04-19 22:33:15.180722896,5675.16,Q2,Middle-Aged,Premium,High,2024
+POS-0193,2024-04-24 08:05:46.987951808,Birmingham,22 Kings Road,Camera,4.0,50.03,Female,59,Cash,2024-04-24 08:05:46.987951808,200.12,Q2,Senior,Budget,Low,2024
+POS-0194,2024-04-28 17:38:18.795180720,Manchester,5 Deansgate,Headphones,5.0,1748.91,Female,65,Credit Card,2024-04-28 17:38:18.795180720,8744.550000000001,Q2,Senior,Luxury,High,2024
+POS-0195,2024-05-03 03:10:50.602409648,Manchester,5 Deansgate,Camera,6.0,472.16,Male,56,PayPal,2024-05-03 03:10:50.602409648,2832.96,Q2,Senior,Mid-Range,High,2024
+POS-0197,2024-05-11 22:15:54.216867472,Birmingham,22 Kings Road,Laptop,6.0,753.73,Female,47,Debit Card,2024-05-11 22:15:54.216867472,4522.38,Q2,Middle-Aged,Premium,High,2024
+POS-0198,2024-05-16 07:48:26.024096384,Bristol,5 Deansgate,Headphones,8.0,1775.74,Female,51,Cash,2024-05-16 07:48:26.024096384,14205.92,Q2,Middle-Aged,Luxury,Very High,2024
+POS-0199,2024-05-20 17:20:57.831325312,London,8 Canary Wharf,Camera,2.0,1101.43,Male,43,Cash,2024-05-20 17:20:57.831325312,2202.86,Q2,Middle-Aged,Premium,High,2024
+POS-0200,2024-05-25 02:53:29.638554224,London,14 Oxford St,Laptop,4.0,617.06,Male,53,Debit Card,2024-05-25 02:53:29.638554224,2468.24,Q2,Middle-Aged,Mid-Range,High,2024
+POS-0202,2024-06-02 21:58:33.253012048,Edinburgh,10 Broad St,Camera,4.0,669.33,Male,39,Cash,2024-06-02 21:58:33.253012048,2677.32,Q2,Adult,Mid-Range,High,2024
+POS-0203,2024-06-07 07:31:05.060240976,Birmingham,22 Kings Road,Laptop,7.0,308.52,Female,30,Credit Card,2024-06-07 07:31:05.060240976,2159.64,Q2,Adult,Mid-Range,High,2024
+POS-0204,2024-06-11 17:03:36.867469888,Edinburgh,22 Kings Road,Camera,2.0,1728.78,Female,35,PayPal,2024-06-11 17:03:36.867469888,3457.56,Q2,Adult,Luxury,High,2024
+POS-0205,2024-06-16 02:36:08.674698800,Manchester,22 Kings Road,Camera,5.0,1599.48,Male,54,Cash,2024-06-16 02:36:08.674698800,7997.4,Q2,Middle-Aged,Luxury,High,2024
+POS-0206,2024-06-20 12:08:40.481927712,Edinburgh,10 Broad St,Headphones,3.0,1358.21,Male,52,PayPal,2024-06-20 12:08:40.481927712,4074.63,Q2,Middle-Aged,Premium,High,2024
+POS-0207,2024-06-24 21:41:12.289156624,Manchester,22 Kings Road,Tablet,3.0,1633.94,Male,44,Debit Card,2024-06-24 21:41:12.289156624,4901.82,Q2,Middle-Aged,Luxury,High,2024
+POS-0208,2024-06-29 07:13:44.096385552,London,10 Broad St,Camera,2.0,1374.4,Male,29,PayPal,2024-06-29 07:13:44.096385552,2748.8,Q2,Adult,Premium,High,2024
+POS-0209,2024-07-03 16:46:15.903614464,London,10 Broad St,Headphones,6.0,1803.67,Male,32,Credit Card,2024-07-03 16:46:15.903614464,10822.02,Q3,Adult,Luxury,Very High,2024
+POS-0210,2024-07-08 02:18:47.710843376,Bristol,14 Oxford St,Camera,8.0,314.15,Female,33,Cash,2024-07-08 02:18:47.710843376,2513.2,Q3,Adult,Mid-Range,High,2024
+POS-0212,2024-07-16 21:23:51.325301216,Birmingham,8 Canary Wharf,Smartphone,9.0,1397.67,Female,20,Cash,2024-07-16 21:23:51.325301216,12579.03,Q3,Youth,Premium,Very High,2024
+POS-0213,2024-07-21 06:56:23.132530128,Manchester,5 Deansgate,Tablet,2.0,1378.11,Male,29,Cash,2024-07-21 06:56:23.132530128,2756.22,Q3,Adult,Premium,High,2024
+POS-0214,2024-07-25 16:28:54.939759040,London,5 Deansgate,Smartphone,3.0,511.59,Female,69,Cash,2024-07-25 16:28:54.939759040,1534.77,Q3,Senior,Mid-Range,Medium,2024
+POS-0215,2024-07-30 02:01:26.746987952,London,10 Broad St,Headphones,5.0,925.88,Male,64,PayPal,2024-07-30 02:01:26.746987952,4629.4,Q3,Senior,Premium,High,2024
+POS-0216,2024-08-03 11:33:58.554216880,Edinburgh,8 Canary Wharf,TV,8.0,1390.2,Male,39,Cash,2024-08-03 11:33:58.554216880,11121.6,Q3,Adult,Premium,Very High,2024
+POS-0217,2024-08-07 21:06:30.361445792,Bristol,22 Kings Road,Smartphone,2.0,1456.95,Female,23,PayPal,2024-08-07 21:06:30.361445792,2913.9,Q3,Youth,Premium,High,2024
+POS-0218,2024-08-12 06:39:02.168674704,Manchester,22 Kings Road,Smartphone,7.0,1192.52,Male,36,Cash,2024-08-12 06:39:02.168674704,8347.64,Q3,Adult,Premium,High,2024
+POS-0219,2024-08-16 16:11:33.975903616,Edinburgh,5 Deansgate,TV,2.0,366.55,Female,20,Debit Card,2024-08-16 16:11:33.975903616,733.1,Q3,Youth,Mid-Range,Medium,2024
+POS-0220,2024-08-21 01:44:05.783132528,Manchester,10 Broad St,Laptop,8.0,1969.16,Male,65,Cash,2024-08-21 01:44:05.783132528,15753.28,Q3,Senior,Luxury,Very High,2024
+POS-0221,2024-08-25 11:16:37.590361456,Bristol,14 Oxford St,TV,1.0,541.95,Male,40,Cash,2024-08-25 11:16:37.590361456,541.95,Q3,Adult,Mid-Range,Medium,2024
+POS-0222,2024-08-29 20:49:09.397590368,Birmingham,14 Oxford St,Camera,2.0,1591.38,Male,53,PayPal,2024-08-29 20:49:09.397590368,3182.76,Q3,Middle-Aged,Luxury,High,2024
+POS-0223,2024-09-03 06:21:41.204819280,Manchester,8 Canary Wharf,Tablet,2.0,1609.88,Male,50,Cash,2024-09-03 06:21:41.204819280,3219.76,Q3,Middle-Aged,Luxury,High,2024
+POS-0224,2024-09-07 15:54:13.012048192,Birmingham,10 Broad St,Smartphone,9.0,951.54,Female,54,Cash,2024-09-07 15:54:13.012048192,8563.86,Q3,Middle-Aged,Premium,High,2024
+POS-0225,2024-09-12 01:26:44.819277120,Manchester,8 Canary Wharf,Tablet,4.0,1504.44,Female,23,Credit Card,2024-09-12 01:26:44.819277120,6017.76,Q3,Youth,Luxury,High,2024
+POS-0227,2024-09-20 20:31:48.433734944,London,14 Oxford St,Laptop,1.0,1353.42,Male,45,Debit Card,2024-09-20 20:31:48.433734944,1353.42,Q3,Middle-Aged,Premium,Medium,2024
+POS-0228,2024-09-25 06:04:20.240963856,London,14 Oxford St,TV,6.0,1615.96,Male,60,PayPal,2024-09-25 06:04:20.240963856,9695.76,Q3,Senior,Luxury,High,2024
+POS-0229,2024-09-29 15:36:52.048192784,Birmingham,8 Canary Wharf,TV,7.0,1324.46,Female,60,Debit Card,2024-09-29 15:36:52.048192784,9271.220000000001,Q3,Senior,Premium,High,2024
+POS-0230,2024-10-04 01:09:23.855421696,Bristol,5 Deansgate,Camera,8.0,1811.26,Male,64,Credit Card,2024-10-04 01:09:23.855421696,14490.08,Q4,Senior,Luxury,Very High,2024
+POS-0231,2024-10-08 10:41:55.662650608,Birmingham,10 Broad St,Camera,2.0,436.37,Female,19,PayPal,2024-10-08 10:41:55.662650608,872.74,Q4,Youth,Mid-Range,Medium,2024
+POS-0232,2024-10-12 20:14:27.469879520,Bristol,14 Oxford St,Camera,6.0,1898.42,Female,46,Debit Card,2024-10-12 20:14:27.469879520,11390.52,Q4,Middle-Aged,Luxury,Very High,2024
+POS-0233,2024-10-17 05:46:59.277108432,Manchester,10 Broad St,Camera,4.0,1422.28,Male,48,Credit Card,2024-10-17 05:46:59.277108432,5689.12,Q4,Middle-Aged,Premium,High,2024
+POS-0234,2024-10-21 15:19:31.084337360,London,14 Oxford St,Smartphone,9.0,1865.7,Female,30,Cash,2024-10-21 15:19:31.084337360,16791.3,Q4,Adult,Luxury,Very High,2024
+POS-0235,2024-10-26 00:52:02.891566272,Edinburgh,14 Oxford St,TV,1.0,455.12,Female,37,Cash,2024-10-26 00:52:02.891566272,455.12,Q4,Adult,Mid-Range,Low,2024
+POS-0236,2024-10-30 10:24:34.698795184,Manchester,5 Deansgate,Camera,9.0,1090.69,Female,43,Debit Card,2024-10-30 10:24:34.698795184,9816.210000000001,Q4,Middle-Aged,Premium,High,2024
+POS-0237,2024-11-03 19:57:06.506024096,Bristol,10 Broad St,Tablet,4.0,167.75,Female,59,PayPal,2024-11-03 19:57:06.506024096,671.0,Q4,Senior,Budget,Medium,2024
+POS-0238,2024-11-08 05:29:38.313253024,London,10 Broad St,TV,7.0,485.11,Male,38,Credit Card,2024-11-08 05:29:38.313253024,3395.77,Q4,Adult,Mid-Range,High,2024
+POS-0239,2024-11-12 15:02:10.120481936,Edinburgh,22 Kings Road,Laptop,8.0,1824.24,Female,64,Cash,2024-11-12 15:02:10.120481936,14593.92,Q4,Senior,Luxury,Very High,2024
+POS-0240,2024-11-17 00:34:41.927710848,Birmingham,8 Canary Wharf,Camera,2.0,1167.5,Female,53,Debit Card,2024-11-17 00:34:41.927710848,2335.0,Q4,Middle-Aged,Premium,High,2024
+POS-0242,2024-11-25 19:39:45.542168688,London,22 Kings Road,Headphones,1.0,964.75,Female,36,PayPal,2024-11-25 19:39:45.542168688,964.75,Q4,Adult,Premium,Medium,2024
+POS-0243,2024-11-30 05:12:17.349397600,Bristol,10 Broad St,TV,1.0,494.94,Male,68,Credit Card,2024-11-30 05:12:17.349397600,494.94,Q4,Senior,Mid-Range,Low,2024
+POS-0244,2024-12-04 14:44:49.156626512,Bristol,8 Canary Wharf,Camera,8.0,1282.77,Female,58,Cash,2024-12-04 14:44:49.156626512,10262.16,Q4,Senior,Premium,Very High,2024
+POS-0245,2024-12-09 00:17:20.963855424,Edinburgh,5 Deansgate,Camera,7.0,1050.96,Male,58,Credit Card,2024-12-09 00:17:20.963855424,7356.72,Q4,Senior,Premium,High,2024
+POS-0246,2024-12-13 09:49:52.771084336,Manchester,10 Broad St,TV,7.0,733.57,Male,68,Cash,2024-12-13 09:49:52.771084336,5134.990000000001,Q4,Senior,Premium,High,2024
+POS-0247,2024-12-17 19:22:24.578313264,Bristol,5 Deansgate,Tablet,7.0,564.35,Female,29,Credit Card,2024-12-17 19:22:24.578313264,3950.4500000000003,Q4,Adult,Mid-Range,High,2024
+POS-0248,2024-12-22 04:54:56.385542176,Birmingham,14 Oxford St,Laptop,4.0,769.16,Female,46,Debit Card,2024-12-22 04:54:56.385542176,3076.64,Q4,Middle-Aged,Premium,High,2024
+POS-0249,2024-12-26 14:27:28.192771088,Edinburgh,5 Deansgate,Tablet,4.0,423.26,Male,22,Credit Card,2024-12-26 14:27:28.192771088,1693.04,Q4,Youth,Mid-Range,Medium,2024
+POS-0250,2024-12-31 00:00:00.000000000,London,14 Oxford St,Smartphone,9.0,309.63,Female,21,Cash,2024-12-31 00:00:00.000000000,2786.67,Q4,Youth,Mid-Range,High,2024

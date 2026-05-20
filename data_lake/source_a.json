@@ -1,0 +1,4952 @@
+[
+  {
+    "transaction_id": "TXN-0001",
+    "timestamp": "2022-01-01",
+    "meta_info": {
+      "city": null,
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 8,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 38,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0002",
+    "timestamp": "2022-01-05",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 4,
+      "unit_price": 919.37
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 41,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0003",
+    "timestamp": "2022-01-09",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 6,
+      "unit_price": 90.14
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 38,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0004",
+    "timestamp": "2022-01-14",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": 643.27
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 59,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0005",
+    "timestamp": "2022-01-18",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 9,
+      "unit_price": 619.68
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 54,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0006",
+    "timestamp": "2022-01-22",
+    "meta_info": {
+      "city": "London",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 9,
+      "unit_price": 1376.6
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 31,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0007",
+    "timestamp": "2022-01-27",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 4,
+      "unit_price": 801.56
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 64,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0008",
+    "timestamp": "2022-01-31",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 1,
+      "unit_price": 287.97
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 67,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0009",
+    "timestamp": "2022-02-05",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 2,
+      "unit_price": 1522.95
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 61,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0010",
+    "timestamp": "2022-02-09",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": 820.54
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 33,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0011",
+    "timestamp": "2022-02-13",
+    "meta_info": {
+      "city": null,
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 9,
+      "unit_price": 579.13
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 62,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0012",
+    "timestamp": "2022-02-18",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 7,
+      "unit_price": 627.73
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 41,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0013",
+    "timestamp": "2022-02-22",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": 437.5
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 52,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0014",
+    "timestamp": "2022-02-27",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 7,
+      "unit_price": 1231.62
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 25,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0015",
+    "timestamp": "2022-03-03",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 8,
+      "unit_price": 695.25
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 44,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0016",
+    "timestamp": "2022-03-07",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 5,
+      "unit_price": 970.82
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 31,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0017",
+    "timestamp": "2022-03-12",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 3,
+      "unit_price": 128.85
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 49,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0018",
+    "timestamp": "2022-03-16",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 5,
+      "unit_price": 976.97
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 56,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0019",
+    "timestamp": "2022-03-21",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 7,
+      "unit_price": 1102.69
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 68,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0020",
+    "timestamp": "2022-03-25",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 9,
+      "unit_price": 1766.91
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 23,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0021",
+    "timestamp": "2022-03-29",
+    "meta_info": {
+      "city": null,
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 7,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 42,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0022",
+    "timestamp": "2022-04-03",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 9,
+      "unit_price": 1818.32
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 30,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0023",
+    "timestamp": "2022-04-07",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 5,
+      "unit_price": 644.32
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 68,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0024",
+    "timestamp": "2022-04-12",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 1,
+      "unit_price": 708.35
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 66,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0025",
+    "timestamp": "2022-04-16",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 5,
+      "unit_price": 1926.77
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 34,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0026",
+    "timestamp": "2022-04-20",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 7,
+      "unit_price": 1238.65
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 49,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0027",
+    "timestamp": "2022-04-25",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 6,
+      "unit_price": 1286.99
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 21,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0028",
+    "timestamp": "2022-04-29",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 8,
+      "unit_price": 1535.16
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 69,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0029",
+    "timestamp": "2022-05-04",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 6,
+      "unit_price": 1285.38
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 46,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0030",
+    "timestamp": "2022-05-08",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 3,
+      "unit_price": 1202.24
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 36,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0031",
+    "timestamp": "2022-05-12",
+    "meta_info": {
+      "city": null,
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": "$PENDING"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 56,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0032",
+    "timestamp": "2022-05-17",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 1683.53
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 40,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0033",
+    "timestamp": "2022-05-21",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 9,
+      "unit_price": 1760.81
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 66,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0034",
+    "timestamp": "2022-05-26",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 7,
+      "unit_price": 1992.69
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 58,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0035",
+    "timestamp": "2022-05-30",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 8,
+      "unit_price": 1415.7
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 41,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0036",
+    "timestamp": "2022-06-03",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 3,
+      "unit_price": 214.07
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 42,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0037",
+    "timestamp": "2022-06-08",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 6,
+      "unit_price": 1948.64
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 33,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0038",
+    "timestamp": "2022-06-12",
+    "meta_info": {
+      "city": "London",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 5,
+      "unit_price": 487.33
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 37,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0039",
+    "timestamp": "2022-06-17",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 3,
+      "unit_price": 1316.78
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 39,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0040",
+    "timestamp": "2022-06-21",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 8,
+      "unit_price": 1200.25
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 44,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0041",
+    "timestamp": "2022-06-25",
+    "meta_info": {
+      "city": null,
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 1,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 65,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0042",
+    "timestamp": "2022-06-30",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 5,
+      "unit_price": 1165.41
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 52,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0043",
+    "timestamp": "2022-07-04",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 5,
+      "unit_price": 80.14
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 52,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0044",
+    "timestamp": "2022-07-09",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 3,
+      "unit_price": 1713.37
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 35,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0045",
+    "timestamp": "2022-07-13",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 8,
+      "unit_price": 819.65
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 49,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0046",
+    "timestamp": "2022-07-17",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 2,
+      "unit_price": 1980.61
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 34,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0047",
+    "timestamp": "2022-07-22",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 7,
+      "unit_price": 1409.18
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 52,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0048",
+    "timestamp": "2022-07-26",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 7,
+      "unit_price": 1740.79
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 53,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0049",
+    "timestamp": "2022-07-31",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 428.83
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 49,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0050",
+    "timestamp": "2022-08-04",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 6,
+      "unit_price": 1360.45
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 39,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0051",
+    "timestamp": "2022-08-08",
+    "meta_info": {
+      "city": null,
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 5,
+      "unit_price": 122.83
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 25,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0052",
+    "timestamp": "2022-08-13",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 6,
+      "unit_price": 579.51
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 49,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0053",
+    "timestamp": "2022-08-17",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 852.14
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 59,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0054",
+    "timestamp": "2022-08-22",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 7,
+      "unit_price": 130.08
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 54,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0055",
+    "timestamp": "2022-08-26",
+    "meta_info": {
+      "city": "London",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 1,
+      "unit_price": 1927.16
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 18,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0056",
+    "timestamp": "2022-08-30",
+    "meta_info": {
+      "city": "London",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 1,
+      "unit_price": 537.97
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 56,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0057",
+    "timestamp": "2022-09-04",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 3,
+      "unit_price": 1130.99
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 39,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0058",
+    "timestamp": "2022-09-08",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 4,
+      "unit_price": 716.67
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 29,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0059",
+    "timestamp": "2022-09-13",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 5,
+      "unit_price": 240.78
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 27,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0060",
+    "timestamp": "2022-09-17",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 3,
+      "unit_price": 1288.43
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 49,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0061",
+    "timestamp": "2022-09-21",
+    "meta_info": {
+      "city": null,
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 8,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 19,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0062",
+    "timestamp": "2022-09-26",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 1741.04
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 50,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0063",
+    "timestamp": "2022-09-30",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 3,
+      "unit_price": 1631.85
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 50,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0064",
+    "timestamp": "2022-10-05",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 1815.43
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 68,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0065",
+    "timestamp": "2022-10-09",
+    "meta_info": {
+      "city": "London",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 1381.86
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 58,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0066",
+    "timestamp": "2022-10-13",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 8,
+      "unit_price": 280.42
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 42,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0067",
+    "timestamp": "2022-10-18",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 9,
+      "unit_price": 1936.78
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 52,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0068",
+    "timestamp": "2022-10-22",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 7,
+      "unit_price": 1476.71
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 41,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0069",
+    "timestamp": "2022-10-27",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 7,
+      "unit_price": 1864.98
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 40,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0070",
+    "timestamp": "2022-10-31",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 4,
+      "unit_price": 514.56
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 42,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0071",
+    "timestamp": "2022-11-04",
+    "meta_info": {
+      "city": null,
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 4,
+      "unit_price": 630.39
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 58,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0072",
+    "timestamp": "2022-11-09",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 5,
+      "unit_price": 228.01
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 52,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0073",
+    "timestamp": "2022-11-13",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 5,
+      "unit_price": 690.9
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 33,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0074",
+    "timestamp": "2022-11-18",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 7,
+      "unit_price": 271.26
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 48,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0075",
+    "timestamp": "2022-11-22",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 2,
+      "unit_price": 910.98
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 29,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0076",
+    "timestamp": "2022-11-26",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 6,
+      "unit_price": 1534.95
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 63,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0077",
+    "timestamp": "2022-12-01",
+    "meta_info": {
+      "city": "London",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 2,
+      "unit_price": 484.02
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 46,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0078",
+    "timestamp": "2022-12-05",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 4,
+      "unit_price": 504.79
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 24,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0079",
+    "timestamp": "2022-12-10",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 6,
+      "unit_price": 1204.18
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 44,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0080",
+    "timestamp": "2022-12-14",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 1817.39
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 37,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0081",
+    "timestamp": "2022-12-18",
+    "meta_info": {
+      "city": null,
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 3,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 45,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0082",
+    "timestamp": "2022-12-23",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": 830.43
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 55,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0083",
+    "timestamp": "2022-12-27",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 5,
+      "unit_price": 1928.28
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 38,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0084",
+    "timestamp": "2023-01-01",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 4,
+      "unit_price": 1842.28
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 35,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0085",
+    "timestamp": "2023-01-05",
+    "meta_info": {
+      "city": "London",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 6,
+      "unit_price": 1277.33
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 33,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0086",
+    "timestamp": "2023-01-09",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 8,
+      "unit_price": 138.62
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 25,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0087",
+    "timestamp": "2023-01-14",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 416.84
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 45,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0088",
+    "timestamp": "2023-01-18",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": 1950.07
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 37,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0089",
+    "timestamp": "2023-01-22",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 3,
+      "unit_price": 1385.23
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 23,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0090",
+    "timestamp": "2023-01-27",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 8,
+      "unit_price": 862.45
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 67,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0091",
+    "timestamp": "2023-01-31",
+    "meta_info": {
+      "city": null,
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 1,
+      "unit_price": "$PENDING"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 49,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0092",
+    "timestamp": "2023-02-05",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 6,
+      "unit_price": 343.31
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 44,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0093",
+    "timestamp": "2023-02-09",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 1,
+      "unit_price": 1684.74
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 65,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0094",
+    "timestamp": "2023-02-13",
+    "meta_info": {
+      "city": "London",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 6,
+      "unit_price": 1736.21
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 40,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0095",
+    "timestamp": "2023-02-18",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 1,
+      "unit_price": 1465.94
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 31,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0096",
+    "timestamp": "2023-02-22",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 4,
+      "unit_price": 301.86
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 18,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0097",
+    "timestamp": "2023-02-27",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 2,
+      "unit_price": 1526.15
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 20,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0098",
+    "timestamp": "2023-03-03",
+    "meta_info": {
+      "city": "London",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 9,
+      "unit_price": 650.17
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 65,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0099",
+    "timestamp": "2023-03-07",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 2,
+      "unit_price": 106.13
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 68,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0100",
+    "timestamp": "2023-03-12",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 2,
+      "unit_price": 315.92
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 35,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0101",
+    "timestamp": "2023-03-16",
+    "meta_info": {
+      "city": null,
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 4,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 55,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0102",
+    "timestamp": "2023-03-21",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 1,
+      "unit_price": 1578.12
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 46,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0103",
+    "timestamp": "2023-03-25",
+    "meta_info": {
+      "city": "London",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 4,
+      "unit_price": 945.73
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 22,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0104",
+    "timestamp": "2023-03-29",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 3,
+      "unit_price": 1260.57
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 40,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0105",
+    "timestamp": "2023-04-03",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 8,
+      "unit_price": 1190.29
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 20,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0106",
+    "timestamp": "2023-04-07",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 3,
+      "unit_price": 974.23
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 38,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0107",
+    "timestamp": "2023-04-12",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 5,
+      "unit_price": 722.91
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 18,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0108",
+    "timestamp": "2023-04-16",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 948.52
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 64,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0109",
+    "timestamp": "2023-04-20",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 4,
+      "unit_price": 1391.18
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 25,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0110",
+    "timestamp": "2023-04-25",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 7,
+      "unit_price": 1214.69
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 41,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0111",
+    "timestamp": "2023-04-29",
+    "meta_info": {
+      "city": null,
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 7,
+      "unit_price": 1507.57
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 64,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0112",
+    "timestamp": "2023-05-04",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 6,
+      "unit_price": 1047.77
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 68,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0113",
+    "timestamp": "2023-05-08",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 7,
+      "unit_price": 254.49
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 34,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0114",
+    "timestamp": "2023-05-12",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 4,
+      "unit_price": 223.95
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 21,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0115",
+    "timestamp": "2023-05-17",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 6,
+      "unit_price": 1588.88
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 64,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0116",
+    "timestamp": "2023-05-21",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 9,
+      "unit_price": 1193.74
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 23,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0117",
+    "timestamp": "2023-05-26",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 6,
+      "unit_price": 1309.54
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 50,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0118",
+    "timestamp": "2023-05-30",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 8,
+      "unit_price": 248.48
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 26,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0119",
+    "timestamp": "2023-06-03",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 2,
+      "unit_price": 150.69
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 45,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0120",
+    "timestamp": "2023-06-08",
+    "meta_info": {
+      "city": "London",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 9,
+      "unit_price": 1737.74
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 32,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0121",
+    "timestamp": "2023-06-12",
+    "meta_info": {
+      "city": null,
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 5,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 43,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0122",
+    "timestamp": "2023-06-17",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 1,
+      "unit_price": 1436.36
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 64,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0123",
+    "timestamp": "2023-06-21",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 3,
+      "unit_price": 1240.71
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 23,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0124",
+    "timestamp": "2023-06-25",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 935.82
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 57,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0125",
+    "timestamp": "2023-06-30",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 221.34
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 32,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0126",
+    "timestamp": "2023-07-04",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 1231.9
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 28,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0127",
+    "timestamp": "2023-07-09",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": 449.75
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 39,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0128",
+    "timestamp": "2023-07-13",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 3,
+      "unit_price": 1691.57
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 54,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0129",
+    "timestamp": "2023-07-17",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 509.6
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 57,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0130",
+    "timestamp": "2023-07-22",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 1,
+      "unit_price": 906.31
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 32,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0131",
+    "timestamp": "2023-07-26",
+    "meta_info": {
+      "city": null,
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 5,
+      "unit_price": 502.81
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 57,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0132",
+    "timestamp": "2023-07-31",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 4,
+      "unit_price": 1108.56
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 64,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0133",
+    "timestamp": "2023-08-04",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 6,
+      "unit_price": 1016.08
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 50,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0134",
+    "timestamp": "2023-08-08",
+    "meta_info": {
+      "city": "London",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 2,
+      "unit_price": 534.55
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 22,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0135",
+    "timestamp": "2023-08-13",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 8,
+      "unit_price": 1521.54
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 32,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0136",
+    "timestamp": "2023-08-17",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 1102.73
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 48,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0137",
+    "timestamp": "2023-08-22",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 5,
+      "unit_price": 1403.2
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 28,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0138",
+    "timestamp": "2023-08-26",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 8,
+      "unit_price": 1821.48
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 35,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0139",
+    "timestamp": "2023-08-30",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 4,
+      "unit_price": 549.23
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 21,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0140",
+    "timestamp": "2023-09-04",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 9,
+      "unit_price": 1848.87
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 68,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0141",
+    "timestamp": "2023-09-08",
+    "meta_info": {
+      "city": null,
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 7,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 63,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0142",
+    "timestamp": "2023-09-13",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 6,
+      "unit_price": 1970.44
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 68,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0143",
+    "timestamp": "2023-09-17",
+    "meta_info": {
+      "city": "London",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 4,
+      "unit_price": 1235.39
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 43,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0144",
+    "timestamp": "2023-09-21",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 6,
+      "unit_price": 272.82
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 24,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0145",
+    "timestamp": "2023-09-26",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 3,
+      "unit_price": 987.63
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 41,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0146",
+    "timestamp": "2023-09-30",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 6,
+      "unit_price": 1021.82
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 45,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0147",
+    "timestamp": "2023-10-05",
+    "meta_info": {
+      "city": "London",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": 1343.9
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 39,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0148",
+    "timestamp": "2023-10-09",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 7,
+      "unit_price": 1093.39
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 36,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0149",
+    "timestamp": "2023-10-13",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 8,
+      "unit_price": 450.02
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 35,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0150",
+    "timestamp": "2023-10-18",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 1,
+      "unit_price": 1562.28
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 47,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0151",
+    "timestamp": "2023-10-22",
+    "meta_info": {
+      "city": null,
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": "$PENDING"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 56,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0152",
+    "timestamp": "2023-10-27",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 2,
+      "unit_price": 777.95
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 50,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0153",
+    "timestamp": "2023-10-31",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 1958.92
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 20,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0154",
+    "timestamp": "2023-11-04",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 3,
+      "unit_price": 432.42
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 50,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0155",
+    "timestamp": "2023-11-09",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 8,
+      "unit_price": 514.46
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 60,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0156",
+    "timestamp": "2023-11-13",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 7,
+      "unit_price": 824.51
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 35,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0157",
+    "timestamp": "2023-11-18",
+    "meta_info": {
+      "city": "London",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 3,
+      "unit_price": 1284.82
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 46,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0158",
+    "timestamp": "2023-11-22",
+    "meta_info": {
+      "city": "London",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 1422.69
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 40,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0159",
+    "timestamp": "2023-11-26",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 9,
+      "unit_price": 572.72
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 61,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0160",
+    "timestamp": "2023-12-01",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 8,
+      "unit_price": 1899.48
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 63,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0161",
+    "timestamp": "2023-12-05",
+    "meta_info": {
+      "city": null,
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 3,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 31,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0162",
+    "timestamp": "2023-12-10",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 6,
+      "unit_price": 1106.19
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 60,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0163",
+    "timestamp": "2023-12-14",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 1969.58
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 54,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0164",
+    "timestamp": "2023-12-18",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 9,
+      "unit_price": 1654.04
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 51,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0165",
+    "timestamp": "2023-12-23",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 6,
+      "unit_price": 840.23
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 44,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0166",
+    "timestamp": "2023-12-27",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 9,
+      "unit_price": 569.67
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 24,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0167",
+    "timestamp": "2024-01-01",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 1833.1
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 60,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0168",
+    "timestamp": "2024-01-05",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 5,
+      "unit_price": 211.46
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 57,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0169",
+    "timestamp": "2024-01-09",
+    "meta_info": {
+      "city": "London",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 6,
+      "unit_price": 743.56
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 64,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0170",
+    "timestamp": "2024-01-14",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 4,
+      "unit_price": 1876.82
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 37,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0171",
+    "timestamp": "2024-01-18",
+    "meta_info": {
+      "city": null,
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 2,
+      "unit_price": 1210.4
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 43,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0172",
+    "timestamp": "2024-01-22",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 257.87
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 60,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0173",
+    "timestamp": "2024-01-27",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 5,
+      "unit_price": 897.91
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 61,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0174",
+    "timestamp": "2024-01-31",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 5,
+      "unit_price": 580.68
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 66,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0175",
+    "timestamp": "2024-02-05",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 8,
+      "unit_price": 1590.53
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 25,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0176",
+    "timestamp": "2024-02-09",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 9,
+      "unit_price": 1622.79
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 32,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0177",
+    "timestamp": "2024-02-13",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 7,
+      "unit_price": 1975.95
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 40,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0178",
+    "timestamp": "2024-02-18",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 3,
+      "unit_price": 1157.49
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 25,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0179",
+    "timestamp": "2024-02-22",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 4,
+      "unit_price": 872.44
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 52,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0180",
+    "timestamp": "2024-02-27",
+    "meta_info": {
+      "city": "London",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 1068.75
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 54,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0181",
+    "timestamp": "2024-03-02",
+    "meta_info": {
+      "city": null,
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 4,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 39,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0182",
+    "timestamp": "2024-03-06",
+    "meta_info": {
+      "city": "London",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 2,
+      "unit_price": 1488.82
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 52,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0183",
+    "timestamp": "2024-03-11",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 1981.17
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 49,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0184",
+    "timestamp": "2024-03-15",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 1,
+      "unit_price": 186.56
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 61,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0185",
+    "timestamp": "2024-03-20",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 9,
+      "unit_price": 1182.48
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 56,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0186",
+    "timestamp": "2024-03-24",
+    "meta_info": {
+      "city": "London",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 8,
+      "unit_price": 1488.29
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 67,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0187",
+    "timestamp": "2024-03-28",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 5,
+      "unit_price": 1445.33
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 32,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0188",
+    "timestamp": "2024-04-02",
+    "meta_info": {
+      "city": "London",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 5,
+      "unit_price": 263.46
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 54,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0189",
+    "timestamp": "2024-04-06",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 9,
+      "unit_price": 1197.68
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 69,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0190",
+    "timestamp": "2024-04-11",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 5,
+      "unit_price": 501.76
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 62,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0191",
+    "timestamp": "2024-04-15",
+    "meta_info": {
+      "city": null,
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 499.81
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 20,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0192",
+    "timestamp": "2024-04-19",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 3,
+      "unit_price": 732.74
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 66,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0193",
+    "timestamp": "2024-04-24",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 1,
+      "unit_price": 557.46
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 20,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0194",
+    "timestamp": "2024-04-28",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 953.59
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 31,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0195",
+    "timestamp": "2024-05-03",
+    "meta_info": {
+      "city": "London",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 9,
+      "unit_price": 228.4
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 42,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0196",
+    "timestamp": "2024-05-07",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 1731.15
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 32,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0197",
+    "timestamp": "2024-05-11",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 6,
+      "unit_price": 556.52
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 65,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0198",
+    "timestamp": "2024-05-16",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 8,
+      "unit_price": 1794.24
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 49,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0199",
+    "timestamp": "2024-05-20",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 8,
+      "unit_price": 1205.2
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 30,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0200",
+    "timestamp": "2024-05-25",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 1481.12
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 60,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0201",
+    "timestamp": "2024-05-29",
+    "meta_info": {
+      "city": null,
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 6,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 24,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0202",
+    "timestamp": "2024-06-02",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 7,
+      "unit_price": 1767.7
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 27,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0203",
+    "timestamp": "2024-06-07",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 7,
+      "unit_price": 703.48
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 49,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0204",
+    "timestamp": "2024-06-11",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": 1253.01
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 51,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0205",
+    "timestamp": "2024-06-16",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 3,
+      "unit_price": 67.69
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 24,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0206",
+    "timestamp": "2024-06-20",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 5,
+      "unit_price": 892.87
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 39,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0207",
+    "timestamp": "2024-06-24",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 1,
+      "unit_price": 388.82
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 39,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0208",
+    "timestamp": "2024-06-29",
+    "meta_info": {
+      "city": "London",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 2,
+      "unit_price": 1185.23
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 31,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0209",
+    "timestamp": "2024-07-03",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 3,
+      "unit_price": 1368.3
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 29,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0210",
+    "timestamp": "2024-07-08",
+    "meta_info": {
+      "city": "London",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 7,
+      "unit_price": 177.97
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 51,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0211",
+    "timestamp": "2024-07-12",
+    "meta_info": {
+      "city": null,
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 3,
+      "unit_price": "$PENDING"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 58,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0212",
+    "timestamp": "2024-07-16",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 4,
+      "unit_price": 1077.7
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 19,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0213",
+    "timestamp": "2024-07-21",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 1,
+      "unit_price": 1376.97
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 61,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0214",
+    "timestamp": "2024-07-25",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 4,
+      "unit_price": 893.05
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 36,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0215",
+    "timestamp": "2024-07-30",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 6,
+      "unit_price": 912.48
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 51,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0216",
+    "timestamp": "2024-08-03",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 440.7
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 61,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0217",
+    "timestamp": "2024-08-07",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 5,
+      "unit_price": 1109.3
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 32,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0218",
+    "timestamp": "2024-08-12",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 5,
+      "unit_price": 1697.33
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 20,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0219",
+    "timestamp": "2024-08-16",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 4,
+      "unit_price": 1603.25
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 26,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0220",
+    "timestamp": "2024-08-21",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": 489.8
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 25,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0221",
+    "timestamp": "2024-08-25",
+    "meta_info": {
+      "city": null,
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 2,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 35,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0222",
+    "timestamp": "2024-08-29",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": 1950.66
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 55,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0223",
+    "timestamp": "2024-09-03",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 127.26
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 49,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0224",
+    "timestamp": "2024-09-07",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": 1022.83
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 67,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0225",
+    "timestamp": "2024-09-12",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": 191.21
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 69,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0226",
+    "timestamp": "2024-09-16",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 2,
+      "unit_price": 824.0
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 51,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0227",
+    "timestamp": "2024-09-20",
+    "meta_info": {
+      "city": "London",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 3,
+      "unit_price": 376.59
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 23,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0228",
+    "timestamp": "2024-09-25",
+    "meta_info": {
+      "city": "London",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 8,
+      "unit_price": 1875.61
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 67,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0229",
+    "timestamp": "2024-09-29",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 4,
+      "unit_price": 1613.37
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 39,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0230",
+    "timestamp": "2024-10-04",
+    "meta_info": {
+      "city": "London",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 2,
+      "unit_price": 987.76
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 29,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0231",
+    "timestamp": "2024-10-08",
+    "meta_info": {
+      "city": null,
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 3,
+      "unit_price": 1318.07
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 36,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0232",
+    "timestamp": "2024-10-12",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 7,
+      "unit_price": 966.86
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 68,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0233",
+    "timestamp": "2024-10-17",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 5,
+      "unit_price": 1132.96
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 58,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0234",
+    "timestamp": "2024-10-21",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 6,
+      "unit_price": 1318.14
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 32,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0235",
+    "timestamp": "2024-10-26",
+    "meta_info": {
+      "city": "London",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 8,
+      "unit_price": 1688.88
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 54,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0236",
+    "timestamp": "2024-10-30",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 1,
+      "unit_price": 1483.93
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 49,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0237",
+    "timestamp": "2024-11-03",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 2,
+      "unit_price": 905.3
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 51,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0238",
+    "timestamp": "2024-11-08",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 6,
+      "unit_price": 872.36
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 29,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0239",
+    "timestamp": "2024-11-12",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 8,
+      "unit_price": 1264.78
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 65,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0240",
+    "timestamp": "2024-11-17",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 5,
+      "unit_price": 400.38
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 62,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0241",
+    "timestamp": "2024-11-21",
+    "meta_info": {
+      "city": null,
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 8,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 42,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0242",
+    "timestamp": "2024-11-25",
+    "meta_info": {
+      "city": "London",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 9,
+      "unit_price": 1206.25
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 19,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0243",
+    "timestamp": "2024-11-30",
+    "meta_info": {
+      "city": "London",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 7,
+      "unit_price": 1330.64
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 48,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0244",
+    "timestamp": "2024-12-04",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 9,
+      "unit_price": 1773.23
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 22,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0245",
+    "timestamp": "2024-12-09",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 6,
+      "unit_price": 1196.37
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 45,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0246",
+    "timestamp": "2024-12-13",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 1,
+      "unit_price": 1230.8
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 61,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0247",
+    "timestamp": "2024-12-17",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 4,
+      "unit_price": 1191.44
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 31,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0248",
+    "timestamp": "2024-12-22",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 1,
+      "unit_price": 289.79
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 52,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0249",
+    "timestamp": "2024-12-26",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": 401.02
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 31,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0250",
+    "timestamp": "2024-12-31",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 2,
+      "unit_price": 339.27
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 67,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0001",
+    "timestamp": "2022-01-01",
+    "meta_info": {
+      "city": null,
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 8,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 38,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0002",
+    "timestamp": "2022-01-05",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 4,
+      "unit_price": 919.37
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 41,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0003",
+    "timestamp": "2022-01-09",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 6,
+      "unit_price": 90.14
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 38,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0004",
+    "timestamp": "2022-01-14",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": 643.27
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 59,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0005",
+    "timestamp": "2022-01-18",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 9,
+      "unit_price": 619.68
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 54,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0006",
+    "timestamp": "2022-01-22",
+    "meta_info": {
+      "city": "London",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 9,
+      "unit_price": 1376.6
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 31,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0007",
+    "timestamp": "2022-01-27",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 4,
+      "unit_price": 801.56
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 64,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0008",
+    "timestamp": "2022-01-31",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 1,
+      "unit_price": 287.97
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 67,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0009",
+    "timestamp": "2022-02-05",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 2,
+      "unit_price": 1522.95
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 61,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0010",
+    "timestamp": "2022-02-09",
+    "meta_info": {
+      "city": "Edinburgh",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": 820.54
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 33,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0011",
+    "timestamp": "2022-02-13",
+    "meta_info": {
+      "city": null,
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "TV",
+      "quantity": 9,
+      "unit_price": 579.13
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 62,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0012",
+    "timestamp": "2022-02-18",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 7,
+      "unit_price": 627.73
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 41,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0013",
+    "timestamp": "2022-02-22",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 8,
+      "unit_price": 437.5
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 52,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0014",
+    "timestamp": "2022-02-27",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 7,
+      "unit_price": 1231.62
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 25,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0015",
+    "timestamp": "2022-03-03",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 8,
+      "unit_price": 695.25
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 44,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0016",
+    "timestamp": "2022-03-07",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 5,
+      "unit_price": 970.82
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 31,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0017",
+    "timestamp": "2022-03-12",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "8 Canary Wharf"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 3,
+      "unit_price": 128.85
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 49,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0018",
+    "timestamp": "2022-03-16",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 5,
+      "unit_price": 976.97
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 56,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0019",
+    "timestamp": "2022-03-21",
+    "meta_info": {
+      "city": "Bristol",
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Headphones",
+      "quantity": 7,
+      "unit_price": 1102.69
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 68,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0020",
+    "timestamp": "2022-03-25",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "10 Broad St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 9,
+      "unit_price": 1766.91
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 23,
+      "payment": "Debit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0021",
+    "timestamp": "2022-03-29",
+    "meta_info": {
+      "city": null,
+      "store": "5 Deansgate"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 7,
+      "unit_price": "REFUNDED"
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 42,
+      "payment": "PayPal"
+    }
+  },
+  {
+    "transaction_id": "TXN-0022",
+    "timestamp": "2022-04-03",
+    "meta_info": {
+      "city": "London",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Smartphone",
+      "quantity": 9,
+      "unit_price": 1818.32
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 30,
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "transaction_id": "TXN-0023",
+    "timestamp": "2022-04-07",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Camera",
+      "quantity": 5,
+      "unit_price": 644.32
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 68,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0024",
+    "timestamp": "2022-04-12",
+    "meta_info": {
+      "city": "Birmingham",
+      "store": "14 Oxford St"
+    },
+    "basket": {
+      "product": "Tablet",
+      "quantity": 1,
+      "unit_price": 708.35
+    },
+    "customer": {
+      "gender": "Female",
+      "age": 66,
+      "payment": "Cash"
+    }
+  },
+  {
+    "transaction_id": "TXN-0025",
+    "timestamp": "2022-04-16",
+    "meta_info": {
+      "city": "Manchester",
+      "store": "22 Kings Road"
+    },
+    "basket": {
+      "product": "Laptop",
+      "quantity": 5,
+      "unit_price": 1926.77
+    },
+    "customer": {
+      "gender": "Male",
+      "age": 34,
+      "payment": "PayPal"
+    }
+  }
+]
